@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Ansible",
+        "shortname": "ansible",
+        "type": "Automation",
+        "url": "http://www.ansible.com/",
+        "source": "",
+        "files": [
+          "ansible.svg"
+        ]
+      },
+      {
+          "name": "AWX",
+          "shortname": "awx",
+          "type": "Automation",
+          "url": "http://www.ansible.com/",
+          "source": "https://github.com/ansible/logos/tree/main/awx",
+          "files": [
+            "awx-logo.svg"
+          ]
+        },
+      {
+          "name": "Metal3",
+          "shortname": "metal3",
+          "type": "Automation",
+          "url": "https://metal3.io/",
+          "source": "https://github.com/metal3-io/metal3-docs/tree/main/images",
+          "files": [
+            "metal3.svg"
+          ]
+        },
+        {
+            "name": "Pipelines as Code",
+            "shortname": "pac",
+            "type": "CI/CD",
+            "url": "https://pipelinesascode.com/",
+            "source": "https://github.com/openshift-pipelines/pipelines-as-code/tree/main/docs/static",
+            "files": [
+              "pipelines-logo.svg"
+            ]
+          }
+]

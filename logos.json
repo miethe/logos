@@ -1,0 +1,32 @@
+[
+    {
+      "name": ".NET",
+      "shortname": "dotnet",
+      "type": "App Framework",
+      "url": "http://www.microsoft.com/net",
+      "source": "",
+      "files": [
+        "dotnet.svg"
+      ]
+    },
+    {
+        "name": "Ansible",
+        "shortname": "ansible",
+        "type": "Automation",
+        "url": "http://www.ansible.com/",
+        "source": "",
+        "files": [
+          "ansible.svg"
+        ]
+      },
+      {
+          "name": "Metal3",
+          "shortname": "metal3",
+          "type": "Automation",
+          "url": "https://metal3.io/",
+          "source": "https://github.com/metal3-io/metal3-docs/tree/main/images",
+          "files": [
+            "metal3.svg"
+          ]
+        }
+]
