@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="151.22127mm"
+   height="111.69193mm"
+   viewBox="0 0 151.22127 111.69193"
+   version="1.1"
+   id="svg4313"
+   inkscape:version="0.92pre1 r"
+   sodipodi:docname="tigera.svg">
+  <defs
+     id="defs4307" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="42.760315"
+     inkscape:cy="123.66051"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4310">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.419127,-46.874273)">
+    <path
+       style="fill:#f19d1f;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23.419127,104.25579 C 42.972203,78.117773 66.328744,68.829039 70.288175,67.143248 c -8.33407,15.073098 -9.35491,31.844488 -9.35491,31.844488 l 4.964295,-0.439049 c 0,0 -3.294668,6.260003 -3.957777,23.717503 3.005029,-17.13139 10.143781,-29.515053 10.143781,-29.515053 l -5.953125,0.566959 c 0,0 5.826334,-20.778079 18.379091,-29.529389 4.280926,-1.56968 9.354912,-1.228421 9.354912,-1.228421 0,0 -5.000381,33.434341 -2.905688,44.412204 2.905688,-44.412204 11.008546,-60.098217 11.008546,-60.098217 0,0 7.59682,4.745979 11.9535,17.268788 18.5752,-0.389109 38.51224,17.788506 38.51224,17.788506 0,0 -0.0149,1.248519 -1.74223,2.049331 11.76134,4.121927 23.94959,18.897802 23.94959,18.897802 l -4.45125,7.49988 -2.01492,-6.4898 3.76592,-0.70154 -5.05948,-0.0375 2.17741,7.74421 c 0,0 -2.20947,0.78265 -3.22461,1.14574 -3.61439,5.24707 -9.87757,8.60487 -9.87757,8.60487 0,0 3.12525,-3.66032 2.82596,-9.93959 -24.84165,1.96605 -18.19011,26.26934 -18.19011,26.26934 0,0 2.82762,0.0126 5.77891,-4.36149 0.15858,3.19982 -0.66665,5.54892 -2.2472,8.33024 0.38174,0.91304 1.21543,2.89186 1.21543,2.89186 -3.30604,2.20961 -7.32138,7.53021 -12.25941,5.9197 -19.05641,-24.14271 -47.837621,-2.7167 -47.837621,-2.7167 0,0 2.904763,-8.07594 5.858635,-10.03999 -8.755015,-0.49309 -16.867191,4.20499 -16.867191,4.20499 0,0 -0.645885,-24.98273 6.99256,-48.711685 C 70.253364,115.67482 70.122835,117.40778 61.24037,158.5662 48.63742,106.82441 55.523481,88.357116 55.523481,88.357116 Z"
+       id="path3491"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc"
+       inkscape:export-filename="/home/celebdor/Pictures/render/tigera.png"
+       inkscape:export-xdpi="83.914749"
+       inkscape:export-ydpi="83.914749" />
+  </g>
+</svg>

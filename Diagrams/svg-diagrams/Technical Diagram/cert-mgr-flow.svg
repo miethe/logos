@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg198" overflow="hidden" version="1.1" viewBox="0 0 1088 624">
+  <defs>
+    <path id="rect5" d="M0 0h238125v257175H0z"/>
+    <path id="rect9" d="M0 0h238125v252412H0z"/>
+    <path id="rect29" d="M0 0h285750v285750H0z"/>
+  </defs>
+  <defs id="defs38">
+    <clipPath id="clip0">
+      <path id="rect2" d="M0 0h1088v624H0z"/>
+    </clipPath>
+    <clipPath id="clip1">
+      <use xlink:href="#rect5"/>
+    </clipPath>
+    <clipPath id="clip3">
+      <use xlink:href="#rect9"/>
+    </clipPath>
+    <clipPath id="clip4">
+      <use xlink:href="#rect5" id="rect12"/>
+    </clipPath>
+    <clipPath id="clip5">
+      <use xlink:href="#rect9" id="rect15"/>
+    </clipPath>
+    <clipPath id="clip6">
+      <use xlink:href="#rect5" id="rect18"/>
+    </clipPath>
+    <clipPath id="clip8">
+      <use xlink:href="#rect9" id="rect22"/>
+    </clipPath>
+    <clipPath id="clip9">
+      <path id="rect25" d="M0 0h285750v295275H0z"/>
+    </clipPath>
+    <clipPath id="clip11">
+      <use xlink:href="#rect29"/>
+    </clipPath>
+    <clipPath id="clip12">
+      <use xlink:href="#rect29" id="rect32"/>
+    </clipPath>
+    <clipPath id="clip13">
+      <path id="rect35" d="M-.5 0h285750v285750H-.5z"/>
+    </clipPath>
+    <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAA1CAMAAAA05Eg7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAI9UExURQAAAAAAAP8AAP//AACAgP+AAP+qAABAgP+AAP+ZAAArgP+qAABJbf+SAP+2AP+fAP+ZAP+iAP+qAP+dAP+xAAA3bf+kAAA8eP+lAP+cAP+qAAA2a/+qAP+iAAA3b/+mAP+jAAA7bP+hAP+nAAA8cfilAP+lAP+jAP+mAPmgAP+kAAA6cP+jAAA6cP+hAP+jAP+kAP+jAAA8cAA7cv+lAP+iAAA6cQA5cfujAP+jAP+iAPyjAP+jAAA7b/+jAAA6cv+mAP+jAP+kAPyjAP+kAP+lAPykAP+mAPyhAP+lAPyjAAA5cP2jAAA6cP2kAAA4cAA5cP+lAP2jAAA6cP2kAAA6cf+jAP+lAP2jAP2iAP2kAP2kAP2kAP2mAP2jAP2kAP2kAP2jAP2lAP2kAG9oPv2jAAA7cP2kAP2jAP2lAP2kAAA5cAA6cP2kAP2kAP2jAAA6bYNvOAA5cP6kAP6jAP6kAP6jAP6iAP6kAP6kAAA6cI11Mv6kAP6kAAA6b/6jAP6lAAA5cP6kAPyiAPykAP6kAAA5cPyjAPykAP6iAP6kAP6lAP2jAAA5bwA6b/2iAP6jAP6jAP2iAJt5Lf6kAP2iAAA6bgA6cAA6b/2jAP2jAP6jAP2kAP6iAP6kAP2kAP6kAP2jAP2kAP6jAP6kAP2jAP2kAP2jAP+jAP2jAP6kAP6jAP6kAP2iAP2kAP2jAP6jAP2jAAA5bwA5cP2jAP6jAP6kAAA6bwA6cP2jAP6jAAA6cKyCJf6kAP+kALQRSecAAAC7dFJOUwABAQECAgMEBAUGBgcHBwgKCwwNDQ4OERESEhMVFhcXGRobHSIlJScoKy0wMjk5Ojs9QEFBQkZISEhKS0tOUFNTVldZWl1fYWJjZGtsbXBydHR1e3t8fX2AgYGDhoaIiYqLkZSVlpiYnJ6foKKipqeoqq2tr7Gys7S3uLm5u729vb+/wsbHyMjIycrLzM3Nzc7R0tTV19na29vd3d/i4+bm6Onq7e7v8PDy8vX19vf4+Pn8/Pz8/f7+/v5PHslwAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACSUlEQVRIS92S9V8UURTFL+Cy6KpgYKIoKnZ3joXdrWtgY2InBgYhdreiYoCBHcj923zvvuMyszXj5yM/6PeXOefeczbmPfp7tFy5LgvSK3nMpyG9cpb5OaRXSphfQHqlnirJiRCGyEoKniGWvrnUA1IIr2QWVOclQRsyvjO/HAWjOcNcAanp84CZ+8MYmr1So8/z6z5nBXM+pGLia73OhgNDn6kh70iFJd/4KU0hyRf8oXbVObAhul3XneK2sDYCe/XmcT9YG60O6s0yOBs5en6uC5wD35pa5kUwKR0yA5CTVCM/DSacCSVbW+hn1pLS98yfruR21y55bdkc5/uNIHXVO/1TNF+2tMEwLp3OIy/c74lxHNrdQBg8DTuNSBIPIBri6u/XEItxCHKtPj5hAVaxKDWxstFpgYGHjX4S8TUj7lUJ5bOUyVZHozjURG+S1ovhMUpPfmhSj6Ypc8fM1bVTL3SGqMoM3VBX5a7Y1epsKkUp3qqrdxmaq5oT5YraaRpEQbH71M0oF6WoaEjUa3+xcGKkymyUcdAUiKaLPanUgAKTOjbEbOrYLJnlcDRV7Cm46PxhpcEgyzr6U7PbAhvEXrOs4Y0RcrKrJg5FfqTstP+GbXT6ImanM3YxGIyYnf+3cnPuzCJIg2vlVjqR/ziM4FqZpydjYQTXymw9GQYjuFYuNiJK2AMjuP/97UQLIQ3ulUKiTZCGeqnc9tMRSIN7peZCIQTwUAnnn6qkf8QyOr0Rc7D4A7ZR+LotASknrbvGpCMiRES/APao9haZbP9KAAAAAElFTkSuQmCC" id="img2" width="50" height="53" preserveAspectRatio="none"/>
+    <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAA1CAMAAAA05Eg7AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGMUExURQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADugGl4AAACDdFJOUwABAgMEBQYICQoLDBAREhYXGBkaGx8hIiMlKCkqLC4vMDI0NTc5PT5BQkNGTU9QUlNVVlteX2Nnamtsb3V3eHl6fH6DhYaIjI2Oj5KTl5ufoaKmqKmqrK6vs7S1ubu/wsbIy8zOz9DS1tna3N3e3+Hi5ebq6+zu8PHy8/X3+Pr7/P3+rNVYSAAAAAlwSFlzAAAOwwAADsMBx2+oZAAAAehJREFUSEvllllX01AUhW9prYCAIrOiCDJZK5MiCCKDgsokUAQVVGRUGVSUScFIzx+HnLMDbXLTNG+4+B6affY930ParJUqHRW4hm4geFH2bhkp0xjJQ0xFzvO/dKIQbXdewOBGxsOfRIkK0ee7mPTULZpLyQrR21LMTopicdmxKTSF2U72031spKkE7n/H+TFaJYOrU6rmcMpolTsThVwKBa9wE4LRjz5JidCfviyulQo/2cOR8OEmDuwK0bdm7hvXpAfrjdwyDoXo4y2lejhZ/O7J5GVBo9C/JjUoiYmPX+VVC51CHYnKp2peVOoyrl7Kjwf45nNfLkjwUp5l85YKtv3S/y5OJcRLqn75OPtRil9z9qOsSvajrEs+s4qxKlhPXxqKnXOmxA+AjOko/80DM2kOfhRjmN9LPpT35TKkrazdQ86PyZmXstsVlhTu2pUjLyWYjxD9KgcmqRVQPiu10KF6kVyVvGFDWiHeolTDBkcXJdi+JR2YrzHbi93m+0WvRFakAZut1uuvYOxQf/vTMoP9gUs4MLk9p1OsB0Z4U4IaBPgzhbISQWnDVdl6FERnx0UxhnLROKld4hWbMnsNs5ZAm+Of0pcoJldyXiT9H9t5jAczJddnTpTD0SuIXlTiGrJCAkodAWFumCC4ForgAAAAAElFTkSuQmCC" id="img7" width="50" height="53" preserveAspectRatio="none"/>
+    <image xlink:href="data:image/png;base64,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" id="img10" width="35" height="35" preserveAspectRatio="none"/>
+    <style>
+      @import url(http://fonts.googleapis.com/css?family=Mulish);
+    </style>
+  </defs>
+  <g id="g196" clip-path="url(#clip0)">
+    <path id="rect40" fill="#FFF" d="M0 0h1088v624H0z"/>
+    <path id="rect42" fill="#CFD3E6" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M147.5 111.5h211v56h-211z"/>
+    <path id="rect44" fill="#CFD3E6" d="M192 130h151v19H192z"/>
+    <text id="text48" font-family="Mulish,sans-serif" font-size="16" font-weight="700" transform="translate(193.158 145)">letsencrypt-staging</text>
+    <path id="rect50" fill="#CFD3E6" d="M164 125h25v27h-25z"/>
+    <g id="g56" clip-path="url(#clip1)" transform="translate(164 125) scale(.00010499)">
+      <g id="g54" clip-path="url(#clip3)" transform="matrix(1 0 0 1.01887 0 -.125)">
+        <use xlink:href="#img2" id="use52" width="100%" height="100%" transform="scale(4762.5)"/>
+      </g>
+    </g>
+    <path id="rect58" fill="#CFD3E6" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M267.5 26.5001h211v58h-211z"/>
+    <path id="rect60" fill="#CFD3E6" d="M323 46h128v20H323z"/>
+    <text id="text64" font-family="Mulish,sans-serif" font-size="16" font-weight="700" transform="translate(323.783 61)">letsencrypt-prod</text>
+    <path id="rect66" fill="#CFD3E6" d="M294 41h25v27h-25z"/>
+    <g id="g72" clip-path="url(#clip4)" transform="translate(294 41) scale(.00010499)">
+      <g id="g70" clip-path="url(#clip5)" transform="scale(1 1.01887)">
+        <use xlink:href="#img2" id="use68" width="100%" height="100%" transform="scale(4762.5)"/>
+      </g>
+    </g>
+    <path id="rect74" fill="#CFD3E6" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M505.5 66.5001h211v56h-211z"/>
+    <path id="rect76" fill="#CFD3E6" d="M565 85h122v20H565z"/>
+    <text id="text80" font-family="Mulish,sans-serif" font-size="16" font-weight="700" transform="translate(566.447 100)">hashicorp-vault</text>
+    <path id="rect82" fill="#CFD3E6" d="M535 82h25v27h-25z"/>
+    <g id="g88" clip-path="url(#clip6)" transform="translate(535 82) scale(.00010499)">
+      <g id="g86" clip-path="url(#clip8)" transform="matrix(1 0 0 1.01887 -.5 0)">
+        <use xlink:href="#img7" id="use84" width="100%" height="100%" transform="scale(4762.5)"/>
+      </g>
+    </g>
+    <text id="text90" font-family="Mulish,sans-serif" font-size="21" font-weight="400" transform="translate(21.6114 95)">Issuers</text>
+    <path id="path92" d="M.333333-2.7e-7.333433 123.41h-.666667L-.333333 2.7e-7ZM4.0001 122.077l-3.99999501 8-4.00000499-8Z" transform="matrix(1 0 0 -1 611.5 252.577)"/>
+    <path id="path94" d="M.192828-.271898 233.304 165.048l-.386.544L-.192828.271898ZM234.338 161.287l4.211 7.89-8.839-1.365Z" transform="matrix(1 0 0 -1 611.5 252.677)"/>
+    <path id="path96" d="M.0756516-.324635 355.464 82.4935l-.152.6493L-.0756516.324635ZM354.997 78.6199l6.883 5.7112-8.699 2.08Z" transform="matrix(1 0 0 -1 611.5 252.831)"/>
+    <path id="path98" d="M610.856 252.95 377.745 87.6287l.386-.5438L611.242 252.406ZM376.712 91.3907l-4.212-7.8906 8.84 1.3651Z"/>
+    <path id="path100" d="m611.615 252.724-351.707-83.363.154-.648 351.707 83.363Zm-351.253-79.487L253.5 167.5l8.707-2.047Z"/>
+    <path id="path102" fill="#3D3E62" fill-rule="evenodd" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M505.5 262c0-5.247 4.253-9.5 9.5-9.5h192c5.247 0 9.5 4.253 9.5 9.5v38c0 5.247-4.253 9.5-9.5 9.5H515c-5.247 0-9.5-4.253-9.5-9.5Z"/>
+    <text id="text112" fill="#FFF" font-family="Mulish,sans-serif" font-size="19" font-weight="400" transform="translate(551.4 287)">cert-manager<tspan id="tspan106" x="-348.814" y="153" fill="#000" font-size="21">Certificates</tspan><tspan id="tspan108" x="-344.051" y="266" fill="#000" font-size="21">Kubernetes</tspan><tspan id="tspan110" x="-324.551" y="291" fill="#000" font-size="21">Secrets</tspan></text>
+    <path id="path114" fill="#FBB615" fill-rule="evenodd" d="M570.5 532.062c0 2.52-2.043 4.563-4.562 4.563v-4.563c0 1.26-1.022 2.282-2.282 2.282s-2.281-1.022-2.281-2.282v4.563H398.062c-2.519 0-4.562 2.043-4.562 4.563v54.75c0 2.519 2.043 4.562 4.562 4.562 2.52 0 4.563-2.043 4.563-4.562v-4.563h163.313c2.519 0 4.562-2.043 4.562-4.562ZM398.062 545.75c2.52 0 4.563-2.043 4.563-4.562 0-1.26-1.021-2.282-2.281-2.282-1.26 0-2.282 1.022-2.282 2.282Z"/>
+    <path id="path116" fill="#CA9211" fill-rule="evenodd" d="M398.062 545.75c2.52 0 4.563-2.043 4.563-4.562 0-1.26-1.021-2.282-2.281-2.282-1.26 0-2.282 1.022-2.282 2.282Zm167.876-9.125c2.519 0 4.562-2.043 4.562-4.562 0-2.52-2.043-4.563-4.562-4.563-2.52 0-4.563 2.043-4.563 4.563 0 1.26 1.021 2.281 2.281 2.281 1.26 0 2.282-1.021 2.282-2.281Z"/>
+    <path id="path118" fill="none" fill-rule="evenodd" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M393.5 541.188c0-2.52 2.043-4.563 4.562-4.563h163.313v-4.563c0-2.519 2.043-4.562 4.562-4.562 2.52 0 4.563 2.043 4.563 4.562v54.751c0 2.519-2.043 4.562-4.562 4.562H402.625v4.563c0 2.519-2.043 4.562-4.562 4.562-2.52 0-4.563-2.043-4.563-4.562Zm167.875-4.563h4.563c2.519 0 4.562-2.043 4.562-4.562m-4.562 4.562v-4.563c0 1.26-1.022 2.282-2.282 2.282s-2.281-1.022-2.281-2.282M398.062 545.75v-4.562c0-1.26 1.022-2.282 2.282-2.282s2.281 1.022 2.281 2.282c0 2.519-2.043 4.562-4.563 4.562-2.519 0-4.562-2.043-4.562-4.562m9.125 0v50.187"/>
+    <text id="text120" font-family="Mulish,sans-serif" font-size="16" font-weight="400" transform="translate(430.038 569)">signed keypair</text>
+    <path id="path122" fill="#8589E3" fill-rule="evenodd" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M383.834 388.5H595.5v76.666c0 8.469-6.865 15.334-15.334 15.334H368.5v-76.666c0-8.469 6.865-15.334 15.334-15.334Z"/>
+    <text id="text132" fill="#FFF" font-family="Mulish,sans-serif" font-size="19" font-weight="400" transform="translate(430.749 432)">foo.bar.com<tspan id="tspan124" x="-8.41333" y="18" font-size="15" font-style="italic">Issuer: </tspan><tspan id="tspan126" x="39.0867" y="18" font-size="15" font-style="italic">venafi-tpp</tspan></text>
+    <path id="path134" fill="#8589E3" fill-rule="evenodd" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M642.834 388.5H853.5v76.666c0 8.469-6.865 15.334-15.334 15.334H627.5v-76.666c0-8.469 6.865-15.334 15.334-15.334Z"/>
+    <text id="text146" fill="#FFF" font-family="Mulish,sans-serif" font-size="19" font-weight="400" transform="translate(683.085 421)">example.com<tspan id="tspan136" x="-26.42" y="22" font-size="19">www.example.com</tspan><tspan id="tspan138" x="-23.1667" y="41" font-size="15" font-style="italic">Issuer: </tspan><tspan id="tspan140" x="24.3333" y="41" font-size="15" font-style="italic">letsencrypt-prod</tspan></text>
+    <path id="path148" d="M.174994-.283704 123.648 75.8769l-.35.5674L-.174994.283704ZM124.439 72.0563l4.709 7.6043-8.909-.7954Z" transform="matrix(-1 0 0 1 611.648 309.5)"/>
+    <path id="rect150" fill="#CFD3E6" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M867.5 111.5h211v57h-211z"/>
+    <path id="rect152" fill="#CFD3E6" d="M913 129h151v20H913z"/>
+    <text id="text156" font-family="Mulish,sans-serif" font-size="16" font-weight="700" transform="translate(914.753 144)">venafi-as-a-service</text>
+    <path id="rect158" fill="#CFD3E6" d="M882 125h30v31h-30z"/>
+    <g id="g164" clip-path="url(#clip9)" transform="translate(882 125) scale(.00010499)">
+      <g id="g162" clip-path="url(#clip11)" transform="matrix(1 0 0 1.03333 0 -.125)">
+        <use xlink:href="#img10" id="use160" width="100%" height="100%" transform="scale(8164.29)"/>
+      </g>
+    </g>
+    <path id="path166" d="m611.674 309.216 123.66 75.582-.348.569-123.66-75.583Zm124.435 71.758 4.74 7.585-8.912-.759Z"/>
+    <path id="path168" d="M482.833 480.5v48.939h-.666V480.5Zm3.667 47.606-4 8-4-8Z"/>
+    <path id="path170" d="M740.833 480.5v48.939h-.666V480.5Zm3.667 47.606-4 8-4-8Z"/>
+    <path id="path172" fill="#FBB615" fill-rule="evenodd" d="M829.5 532.062c0 2.52-2.043 4.563-4.562 4.563v-4.563c0 1.26-1.022 2.282-2.282 2.282s-2.281-1.022-2.281-2.282v4.563H657.062c-2.519 0-4.562 2.043-4.562 4.563v54.75c0 2.519 2.043 4.562 4.562 4.562 2.52 0 4.563-2.043 4.563-4.562v-4.563h163.313c2.519 0 4.562-2.043 4.562-4.562ZM657.062 545.75c2.52 0 4.563-2.043 4.563-4.562 0-1.26-1.021-2.282-2.281-2.282-1.26 0-2.282 1.022-2.282 2.282Z"/>
+    <path id="path174" fill="#CA9211" fill-rule="evenodd" d="M657.062 545.75c2.52 0 4.563-2.043 4.563-4.562 0-1.26-1.021-2.282-2.281-2.282-1.26 0-2.282 1.022-2.282 2.282Zm167.876-9.125c2.519 0 4.562-2.043 4.562-4.562 0-2.52-2.043-4.563-4.562-4.563-2.52 0-4.563 2.043-4.563 4.563 0 1.26 1.021 2.281 2.281 2.281 1.26 0 2.282-1.021 2.282-2.281Z"/>
+    <path id="path176" fill="none" fill-rule="evenodd" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M652.5 541.188c0-2.52 2.043-4.563 4.562-4.563h163.313v-4.563c0-2.519 2.043-4.562 4.562-4.562 2.52 0 4.563 2.043 4.563 4.562v54.751c0 2.519-2.043 4.562-4.562 4.562H661.625v4.563c0 2.519-2.043 4.562-4.562 4.562-2.52 0-4.563-2.043-4.563-4.562Zm167.875-4.563h4.563c2.519 0 4.562-2.043 4.562-4.562m-4.562 4.562v-4.563c0 1.26-1.022 2.282-2.282 2.282s-2.281-1.022-2.281-2.282M657.062 545.75v-4.562c0-1.26 1.022-2.282 2.282-2.282s2.281 1.022 2.281 2.282c0 2.519-2.043 4.562-4.563 4.562-2.519 0-4.562-2.043-4.562-4.562m9.125 0v50.187"/>
+    <text id="text178" font-family="Mulish,sans-serif" font-size="16" font-weight="400" transform="translate(688.534 569)">signed keypair</text>
+    <path id="rect180" fill="#CFD3E6" stroke="#000" stroke-miterlimit="8" stroke-width="0.666667" d="M744.5 26.5001h211v57h-211z"/>
+    <path id="rect182" fill="#CFD3E6" d="M826 44h80v19h-80z"/>
+    <text id="text186" font-family="Mulish,sans-serif" font-size="16" font-weight="700" transform="translate(826.181 59)">venafi-tpp</text>
+    <path id="rect188" fill="#CFD3E6" d="M793 41h30v30h-30z"/>
+    <g id="g194" clip-path="url(#clip12)" transform="translate(793 41) scale(.00010499)">
+      <g id="g192" clip-path="url(#clip13)">
+        <use xlink:href="#img10" id="use190" width="100%" height="100%" transform="translate(-.5) scale(8164.29)"/>
+      </g>
+    </g>
+  </g>
+</svg>

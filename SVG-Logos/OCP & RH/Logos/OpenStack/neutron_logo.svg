@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="540.36218"
+   id="svg6782"
+   version="1.1"
+   inkscape:version="0.91pre0 r13343"
+   viewBox="0 0 744.09448 540.36219"
+   sodipodi:docname="neutron_logo.svg">
+  <defs
+     id="defs6784" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-13.904559"
+     inkscape:cy="503.75819"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6787">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-512.00001)">
+    <g
+       id="layer1-8"
+       inkscape:label="Layer 1"
+       transform="matrix(1.2456163,0,0,1.2456163,-83.268902,156.16595)">
+      <g
+         transform="translate(-122,44.000001)"
+         id="g7616-4">
+        <g
+           id="g6888-8"
+           transform="matrix(1.1475092,0,0,1.1475092,87.661383,133.31054)"
+           style="fill:#c798e2;fill-opacity:1">
+          <g
+             enable-background="new    "
+             id="g6890-2"
+             style="fill:#c798e2;fill-opacity:1">
+            <g
+               id="g6892-8"
+               style="fill:#c798e2;fill-opacity:1">
+              <polygon
+                 style="fill:#c798e2;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-miterlimit:10"
+                 stroke-miterlimit="10"
+                 points="521.525,165.729 352.659,224.801 182.733,165.755 351.604,106.679 "
+                 id="polygon6894-8" />
+            </g>
+            <g
+               id="g6896-6"
+               style="fill:#c798e2;fill-opacity:1">
+              <polygon
+                 style="fill:#c798e2;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-miterlimit:10"
+                 stroke-miterlimit="10"
+                 points="521.525,165.729 520.626,405.996 351.754,465.079 352.659,224.801 "
+                 id="polygon6898-9" />
+            </g>
+            <g
+               id="g6900-5"
+               style="fill:#c798e2;fill-opacity:1">
+              <polygon
+                 style="fill:#c798e2;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-miterlimit:10"
+                 stroke-miterlimit="10"
+                 points="352.659,224.801 351.754,465.079 181.833,406.029 182.733,165.755 "
+                 id="polygon6902-5" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="g7569-2"
+           transform="matrix(5.3278657,0,0,5.3278657,-880.16742,-1005.5465)">
+          <g
+             id="g7554-67">
+            <ellipse
+               style="opacity:1;fill:#c798e2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="path7550-6"
+               cx="305.06479"
+               cy="280.32138"
+               rx="5.0033641"
+               ry="4.8945951"
+               d="m 310.06815,280.32138 a 5.0033641,4.8945951 0 0 1 -5.00336,4.8946 5.0033641,4.8945951 0 0 1 -5.00337,-4.8946 5.0033641,4.8945951 0 0 1 5.00337,-4.89459 5.0033641,4.8945951 0 0 1 5.00336,4.89459 z" />
+            <path
+               style="fill:#c798e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 300.375,281.73718 -9.0625,0 0,-3.3125 9.125,0 z"
+               id="path7552-5"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+          </g>
+        </g>
+        <g
+           transform="matrix(-5.3278657,0,0,5.3278657,1855.3736,-1003.9971)"
+           id="g7554-6-7">
+          <ellipse
+             ry="4.8945951"
+             rx="5.0033641"
+             cy="280.32138"
+             cx="305.06479"
+             id="path7550-5-7"
+             style="opacity:1;fill:#c798e2;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 310.06815,280.32138 a 5.0033641,4.8945951 0 0 1 -5.00336,4.8946 5.0033641,4.8945951 0 0 1 -5.00337,-4.8946 5.0033641,4.8945951 0 0 1 5.00337,-4.89459 5.0033641,4.8945951 0 0 1 5.00336,4.89459 z" />
+          <path
+             sodipodi:nodetypes="ccccc"
+             inkscape:connector-curvature="0"
+             id="path7552-2-8"
+             d="m 300.375,281.73718 -9.0625,0 0,-3.3125 9.125,0 z"
+             style="fill:#c798e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
