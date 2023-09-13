@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30px" height="20px" viewBox="0 0 30 20" version="1.1">
+                            <g id="surface1">
+                            <rect x="0" y="0" width="30" height="20" style="fill:rgb(0%,0%,40%);fill-opacity:1;stroke:none;"/>
+                            <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 0 0 L 0 2.234375 L 26.648438 20 L 30 20 L 30 17.765625 L 3.355469 0 Z M 30 0 L 30 2.234375 L 3.355469 20 L 0 20 L 0 17.765625 L 26.648438 0 Z M 30 0 "/>
+                            <path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 12.5 0 L 12.5 20 L 17.5 20 L 17.5 0 Z M 0 6.667969 L 0 13.332031 L 30 13.332031 L 30 6.667969 Z M 0 6.667969 "/>
+                            <path style=" stroke:none;fill-rule:nonzero;fill:rgb(80%,0%,0%);fill-opacity:1;" d="M 0 8 L 0 12 L 30 12 L 30 8 Z M 13.5 0 L 13.5 20 L 16.5 20 L 16.5 0 Z M 13.5 0 "/>
+                            <path style=" stroke:none;fill-rule:nonzero;fill:rgb(80%,0%,0%);fill-opacity:1;" d="M 0 20 L 10 13.332031 L 12.234375 13.332031 L 2.234375 20 Z M 0 0 L 10 6.667969 L 7.765625 6.667969 L 0 1.492188 Z M 17.765625 6.667969 L 27.765625 0 L 30 0 L 20 6.667969 Z M 30 20 L 20 13.332031 L 22.238281 13.332031 L 30 18.507812 Z M 30 20 "/>
+                                   </g>
+                        </svg>
