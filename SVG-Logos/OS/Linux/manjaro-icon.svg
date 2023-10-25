@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="14mm"
+   height="14mm"
+   viewBox="0 0 14 14"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="manjaro.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="14mm"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     inkscape:zoom="5.6340776"
+     inkscape:cx="47.478934"
+     inkscape:cy="34.167083"
+     inkscape:window-width="1360"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#16a085;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.815308,11.749988 -0.02855,-9.4999997 1.95909,0.03235 c 0.861355,-0.05815 0.96458,0.40854 1.008215,0.916485 l -0.0172,7.5994997 c -0.0015,0.5955 -0.320795,0.90045 -0.91827,0.950955 z"
+       id="path1303"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#16a085;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 5.4585028,5.6006283 2.9452351,0.0075 -0.00645,6.1347097 -2.9412101,0.0071 z"
+       id="path1718" />
+    <path
+       style="fill:#16a085;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.4077229,2.2499883 -0.02945,2.97397 -3.2553051,-5e-4 0.01305,6.5265297 -2.1658001,-0.0075 c -0.4291,-0.0407 -0.71376,-0.270785 -0.714745,-0.87275 l -0.00925,-7.5408297 c -0.0115,-0.669535 0.325605,-1.03729 1.047635,-1.0718 z"
+       id="path1851"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>
