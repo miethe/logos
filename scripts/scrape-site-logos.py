@@ -4,8 +4,8 @@ from urllib.request import urlretrieve
 import time
 
 # Webpage to scrape
-url = 'https://www.reddit.com/r/TheExpanse/comments/dnxm8a/expanse_vector_logos_dump_iii/'
-dest_path = '/Users/miethe/dev/openshift-practice/logos/scrapes/'
+url = 'https://logos.fandom.com/wiki/Microsoft_Windows/Logo_Variations/'
+dest_path = '/Users/miethe/Downloads/windows-logos'
 
 restart_name = ''
 restart_breakout = False

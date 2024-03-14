@@ -5,7 +5,7 @@ import shutil
 from os.path import split
 
 SVG_STRING = ".svg"
-SVG_DESTINATION_DIRECTORY = "/Users/miethe/Downloads/cncf-svg"
+SVG_DESTINATION_DIRECTORY = "/Users/miethe/Downloads/windows-logos"
 #PNG_DESTINATION_DIRECTORY = "/Users/miethe/dev/openshift-practice/logos/PNG-Logos/App Frameworks, Language, IDE/Languages"
 
 def get_full_path_regex(file_name, regex, dest_dir, secondary_flag=None, secondary_dir=None):
