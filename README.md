@@ -1,6 +1,10 @@
 # Logos
 
-Collection of logos with links to sources
+Collection of logos, icons, diagrams, and other imagery. Sometimes with links to sources!
+
+## Overview
+
+This collection is largely focused on vector-based images, primarily SVG. However, in some cases you will also find Rasterized images, primarily .png; generally this is only for images without an existing SVG.
 
 ## Adding Logos
 
