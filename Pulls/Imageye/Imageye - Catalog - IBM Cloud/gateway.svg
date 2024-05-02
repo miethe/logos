@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Gateway_Appliances_Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Cloud_1_);}
+	.st1{fill:url(#Gradient_Left_1_);}
+	.st2{fill:url(#Gradient_Right_1_);}
+	.st3{fill:#00196E;}
+</style>
+<linearGradient id="Cloud_1_" gradientUnits="userSpaceOnUse" x1="-0.8471194" y1="1.9137595" x2="29.0106907" y2="31.7715683" gradientTransform="matrix(1 0 0 -1 0 32)">
+	<stop  offset="0.1" style="stop-color:#08BDBA"/>
+	<stop  offset="0.9" style="stop-color:#0F62FE"/>
+</linearGradient>
+<path id="Cloud" class="st0" d="M22.5,19H18v-2h4.5c1.9299316,0,3.5-1.5700684,3.5-3.5
+	c0-1.8007812-1.3620605-3.2888184-3.1682129-3.4616699l-0.7880859-0.0751953l-0.1074219-0.7844238
+	C21.5317383,6.2263184,18.9797363,4,16,4s-5.5317383,2.2263184-5.9362793,5.1787109L9.9562988,9.9631348l-0.7880859,0.0751953
+	C7.3620605,10.2111816,6,11.6992188,6,13.5C6,15.4299316,7.5700684,17,9.5,17H14v2H9.5C6.4672852,19,4,16.5327148,4,13.5
+	c0-2.5778809,1.7666016-4.7485352,4.2182617-5.3273926C9.0544434,4.6062012,12.2770996,2,16,2
+	s6.9455566,2.6062012,7.7817383,6.1726074C26.2333984,8.7514648,28,10.9221191,28,13.5C28,16.5327148,25.5327148,19,22.5,19z"/>
+<linearGradient id="Gradient_Left_1_" gradientUnits="userSpaceOnUse" x1="88.0001984" y1="61.4997482" x2="95.0001984" y2="61.4997482" gradientTransform="matrix(1 0 0 -1 -80.000412 78.999588)">
+	<stop  offset="0.0006598" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.7" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<rect id="Gradient_Left" x="7.9997826" y="14.9998398" class="st1" width="7" height="5"/>
+<linearGradient id="Gradient_Right_1_" gradientUnits="userSpaceOnUse" x1="-418.9995728" y1="144.499588" x2="-411.9995728" y2="144.499588" gradientTransform="matrix(-1 0 0 1 -394.9995728 -126.999588)">
+	<stop  offset="0.0006598" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.7" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<polygon id="Gradient_Right" class="st2" points="24,15 17,15 17,20 24,20 "/>
+<path id="Arrow__x26__Nodes" class="st3" d="M7,30H4v-3h3V30z M14,27h-3v3h3V27z M21,27h-3v3h3V27z M28,27h-3v3h3V27z
+	 M14.9999924,14l0.0000038,8.1727276l-2.2929783-2.2929688l-1.4140682,1.4140625L16,26l4.7070503-4.7061787l-1.4140682-1.4140625
+	l-2.2929783,2.2929688L17,14H14.9999924z"/>
+</svg>

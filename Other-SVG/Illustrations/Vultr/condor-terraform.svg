@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" x="0px" y="0px" class="svg-illustration" data-animation-options="type: condor; delay: 0;" viewBox="0 0 512 432">
+  <g class="animation-element">
+    <linearGradient id="a" x1="44.9993" x2="266.0027" y1="208.6812" y2="208.6812" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="4.189944e-02" stop-color="#bbc1d4"/>
+      <stop offset="1" stop-color="#ebeef5"/>
+    </linearGradient>
+    <path fill="url(#a)" fill-rule="evenodd" d="M266,166.5c0,0-0.2,33.8,0,50.1 c0.2,16.5-10.8,32.2-32.5,44.8c-43,25-112.9,25-156-0.1C56.3,249,44.9,232.8,45,216.6c0.1-17,0-50.1,0-50.1H266z" clip-rule="evenodd"/>
+    <path fill="#BFC5D7" fill-rule="evenodd" d="M233.6,124c43.2,25,43.2,65.5,0.1,90.5 s-113.1,25-156.3-0.1s-43.2-65.5-0.1-90.5S190.4,98.9,233.6,124z" clip-rule="evenodd"/>
+    <linearGradient id="b" x1="95.6995" x2="70.3103" y1="154.853" y2="194.0078" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="4.189944e-02" stop-color="#bbc1d4"/>
+      <stop offset="0.7833" stop-color="#ebeef5"/>
+    </linearGradient>
+    <path fill="url(#b)" fill-rule="evenodd" d="M100,252.1 L69,270l-0.1-0.2c-1.3,1.1-3.2,1.2-5.5-0.1c-4.1-2.6-6.7-7.1-7-11.9c0-2.4,0.9-4,2.4-4.6l-0.1-0.1l32.5-18.6l0.2,0.3 c1.2-0.6,2.9-0.4,4.7,0.6c4.1,2.6,6.7,7.1,7,11.9C103.1,250.1,101.9,251.8,100,252.1z" clip-rule="evenodd"/>
+    <path fill="#F7F8FC" fill-rule="evenodd" d="M63.4,253.8c4.1,2.6,6.7,7.1,7,11.9 c0,4.4-3.1,6.2-7,4c-4.1-2.6-6.7-7.1-7-11.9C56.4,253.4,59.6,251.6,63.4,253.8z" clip-rule="evenodd"/>
+    <path fill="#BFC6D9" fill-rule="evenodd" d="M63.4,255.4 c3.3,2.1,5.4,5.7,5.6,9.6c0,3.5-2.5,4.9-5.6,3.2c-3.3-2.1-5.4-5.7-5.6-9.5C57.8,255.1,60.3,253.7,63.4,255.4z" clip-rule="evenodd"/>
+    <linearGradient id="c" x1="45" x2="266" y1="260.0312" y2="260.0312" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="4.189944e-02" stop-color="#bbc1d4"/>
+      <stop offset="1" stop-color="#ebeef5"/>
+    </linearGradient>
+    <path fill="url(#c)" fill-rule="evenodd" d="M266,115.2c0,0-0.2,33.8,0,50.1 c0.2,16.5-10.8,32.2-32.5,44.8c-43,25-112.8,25-155.9-0.1C56.4,197.7,45,181.4,45,165.2c0.1-17,0-50.1,0-50.1L266,115.2z" clip-rule="evenodd"/>
+    <path fill="#BFC5D7" fill-rule="evenodd" d="M233.6,71.9c43.2,25,43.2,65.5,0.1,90.5 s-113.1,24.9-156.3-0.1s-43.2-65.5-0.1-90.5S190.4,46.9,233.6,71.9z" clip-rule="evenodd"/>
+    <linearGradient id="d" x1="45" x2="266" y1="312.0312" y2="312.0312" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="4.189944e-02" stop-color="#bbc1d4"/>
+      <stop offset="1" stop-color="#ebeef5"/>
+    </linearGradient>
+    <path fill="url(#d)" fill-rule="evenodd" d="M266,63.2c0,0-0.2,33.8,0,50.1 c0.2,16.5-10.8,32.2-32.5,44.8c-43,25-112.8,25-155.9-0.1C56.4,145.7,45,129.4,45,113.2c0.1-17,0-50.1,0-50.1L266,63.2z" clip-rule="evenodd"/>
+    <g transform="translate(-366.812 -3640.5)">
+      <linearGradient id="e" x1="778.6121" x2="999.6121" y1="366.7874" y2="366.7874" gradientTransform="matrix(1 0 0 -1 -366.812 4072.5)" gradientUnits="userSpaceOnUse">
+        <stop offset="4.189944e-02" stop-color="#bbc1d4"/>
+        <stop offset="1" stop-color="#ebeef5"/>
+      </linearGradient>
+      <path fill="url(#e)" fill-rule="evenodd" d="M600.4,3661.1 c43.2,24.7,43.2,64.6,0.1,89.3c-43.1,24.6-113.1,24.6-156.3,0c-43.2-24.6-43.2-64.6-0.1-89.3 C487.2,3636.4,557.2,3636.4,600.4,3661.1z" clip-rule="evenodd"/>
+    </g>
+    <path fill="none" stroke="#FFF" d="M233.6,20.6c43.2,24.7,43.2,64.6,0.1,89.3s-113.1,24.6-156.3,0 s-43.2-64.6-0.1-89.3S190.4-4.1,233.6,20.6z"/>
+    <path fill="#142149" fill-rule="evenodd" d="M225.1,55.7c18.5,10.7,28.4,25.6,29,37c-17,19.3-40.8,26-40.8,26s-46.6,17.2-101.5,3.9c-43.8-11.7-54.2-29.2-57-31.9 c2.6-12.5,11.6-24.9,29.1-35C123,33.1,186.1,33.1,225.1,55.7z" clip-rule="evenodd" opacity="0.2"/>
+  </g>
+  <g class="animation-element">
+    <linearGradient id="f" x1="115" x2="194" y1="374.5875" y2="374.5875" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cad1e0"/>
+      <stop offset="0.48" stop-color="#bec5d8"/>
+      <stop offset="0.52" stop-color="#d4d9e6"/>
+      <stop offset="1" stop-color="#e4e7f0"/>
+    </linearGradient>
+    <path fill="url(#f)" fill-rule="evenodd" d="M115,40.8h78.9l0.1,10.9 c0,1.2-0.8,2.4-2.4,3.3L176,63.8l-15.6,8.8c-3.7,1.9-8,1.9-11.7,0l-15.5-8.8L117.4,55c-1.6-0.9-2.4-2.1-2.4-3.3V40.8" clip-rule="evenodd"/>
+    <path fill="#142149" fill-rule="evenodd" d="M189.1,49c0.3,0,0.5,0.1,0.7,0.3s0.2,0.5,0.2,0.7v5.8l-28,16v-5.3c0.1-1,0.6-2,1.5-2.6l25-14.9C188.6,49.1,188.8,49,189.1,49 M123.5,52.6c0.1,0,0.2,0,0.3-0.1c0.1-0.1,0.1-0.2,0.1-0.3c0-0.4-0.3-0.9-0.7-1.1l-4.7-2.7c-0.1-0.2-0.4-0.2-0.5,0l0,0 c-0.1,0.1-0.1,0.2-0.1,0.3c0,0.4,0.3,0.9,0.7,1.1l4.7,2.7C123.3,52.5,123.4,52.6,123.5,52.6" clip-rule="evenodd" opacity="0.4"/>
+    <linearGradient id="g" x1="115" x2="193.9999" y1="391.35" y2="391.35" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eaedf6"/>
+      <stop offset="1" stop-color="#f6f8fe"/>
+    </linearGradient>
+    <path fill="url(#g)" fill-rule="evenodd" d="M117.4,44 c-1.6-0.9-2.4-2.1-2.4-3.3s0.8-2.4,2.4-3.4l15.6-9l15.6-9c3.7-1.9,8-1.9,11.7,0l15.6,9l15.5,9c1.4,0.6,2.3,1.9,2.4,3.4 c0,1.3-0.8,2.4-2.4,3.3l-15.6,9l-15.6,9c-3.7,1.9-8,1.9-11.7,0l-15.6-9L117.4,44z" clip-rule="evenodd"/>
+  </g>
+  <g class="animation-element">
+    <linearGradient id="h" x1="115" x2="194" y1="391.2375" y2="391.2375" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cad1e0"/>
+      <stop offset="0.48" stop-color="#bec5d8"/>
+      <stop offset="0.52" stop-color="#d4d9e6"/>
+      <stop offset="1" stop-color="#e4e7f0"/>
+    </linearGradient>
+    <path fill="url(#h)" fill-rule="evenodd" d="M115,24.1h78.9L194,35 c0,1.2-0.8,2.4-2.4,3.3L176,47.2L160.3,56c-3.7,1.9-8,1.9-11.7,0l-15.5-8.8l-15.6-8.8c-1.6-0.9-2.4-2.1-2.4-3.3L115,24.1" clip-rule="evenodd"/>
+    <path fill="#142149" fill-rule="evenodd" d="M189.1,32.9c0.3,0,0.5,0.1,0.7,0.3s0.2,0.5,0.2,0.7v5.8l-28,16v-5.3c0.1-1,0.6-2,1.5-2.6l25-14.9 C188.6,33,188.9,32.9,189.1,32.9 M123.5,36.4c0.1,0,0.2,0,0.3-0.1c0.1-0.1,0.1-0.2,0.1-0.3c0-0.4-0.3-0.9-0.7-1.1l-4.7-2.7 c-0.2-0.2-0.4-0.2-0.6,0l0,0c-0.1,0.1-0.1,0.2-0.1,0.3c0,0.4,0.3,0.9,0.7,1.1l4.7,2.7C123.3,36.4,123.4,36.4,123.5,36.4" clip-rule="evenodd" opacity="0.4"/>
+    <linearGradient id="i" x1="115.0202" x2="194.0201" y1="407.95" y2="407.95" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eaedf6"/>
+      <stop offset="1" stop-color="#f6f8fe"/>
+    </linearGradient>
+    <path fill="url(#i)" fill-rule="evenodd" d="M117.5,27.4c-1.6-0.9-2.4-2.1-2.4-3.3c0-1.2,0.8-2.4,2.4-3.4l15.6-9l15.6-9c3.7-1.9,8-1.9,11.7,0l15.6,9l15.5,9 c1.6,0.9,2.4,2.1,2.4,3.4s-0.8,2.4-2.4,3.3l-15.6,9l-15.6,9c-3.7,1.9-8,1.9-11.7,0l-15.6-9L117.5,27.4z" clip-rule="evenodd"/>
+  </g>
+  <g class="animation-element">
+    <linearGradient id="j" x1="60" x2="139" y1="341.6875" y2="341.6875" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cad1e0"/>
+      <stop offset="0.48" stop-color="#bec5d8"/>
+      <stop offset="0.52" stop-color="#d4d9e6"/>
+      <stop offset="1" stop-color="#e4e7f0"/>
+    </linearGradient>
+    <path fill="url(#j)" fill-rule="evenodd" d="M60,73.7h78.9 l0.1,10.9c0,1.2-0.8,2.4-2.4,3.3L121,96.7l-15.6,8.8c-3.7,1.9-8,1.9-11.7,0l-15.5-8.8l-15.6-8.8C60.8,87,60,85.8,60,84.6V73.7" clip-rule="evenodd"/>
+    <path fill="#142149" fill-rule="evenodd" d="M134.1,82c0.3,0,0.5,0.1,0.7,0.3c0.2,0.2,0.2,0.5,0.2,0.7v5.8l-28,16v-5.3c0.1-1,0.6-2,1.5-2.6l25-14.9 C133.6,82.1,133.8,82,134.1,82 M68.7,85.6c0.1,0,0.2,0,0.3-0.1c0.1-0.1,0.1-0.2,0.1-0.3c0-0.4-0.3-0.9-0.7-1.1l-4.7-2.7 c-0.1-0.2-0.4-0.2-0.5,0l0,0c-0.2,0-0.2,0.1-0.2,0.2c0,0.4,0.3,0.9,0.7,1.1l4.7,2.7C68.4,85.5,68.6,85.6,68.7,85.6" clip-rule="evenodd" opacity="0.4"/>
+    <linearGradient id="k" x1="60" x2="139" y1="358.35" y2="358.35" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eaedf6"/>
+      <stop offset="1" stop-color="#f6f8fe"/>
+    </linearGradient>
+    <path fill="url(#k)" fill-rule="evenodd" d="M62.4,77 c-1.6-0.9-2.4-2.1-2.4-3.3c0-1.2,0.8-2.4,2.4-3.4l15.6-9l15.6-9c3.7-1.9,8-1.9,11.7,0l15.6,9l15.5,9c1.4,0.6,2.3,1.9,2.4,3.4 c0,1.3-0.8,2.4-2.4,3.3l-15.6,9l-15.6,9c-3.7,1.9-8,1.9-11.7,0L78,86L62.4,77z" clip-rule="evenodd"/>
+  </g>
+  <g class="animation-element">
+    <linearGradient id="l" x1="60" x2="139" y1="358.1875" y2="358.1875" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cad1e0"/>
+      <stop offset="0.48" stop-color="#bec5d8"/>
+      <stop offset="0.52" stop-color="#d4d9e6"/>
+      <stop offset="1" stop-color="#e4e7f0"/>
+    </linearGradient>
+    <path fill="url(#l)" fill-rule="evenodd" d="M60,57.2h78.9 l0.1,10.9c0,1.2-0.8,2.4-2.4,3.3L121,80.2L105.4,89c-3.7,1.9-8,1.9-11.7,0l-15.5-8.8l-15.6-8.8c-1.6-0.9-2.4-2.1-2.4-3.3V57.2" clip-rule="evenodd"/>
+    <path fill="#142149" fill-rule="evenodd" d="M133.1,66c0.3,0,0.5,0.1,0.7,0.3c0.2,0.2,0.2,0.5,0.2,0.7v5.8l-28,16v-5.3c0.1-1,0.6-2,1.5-2.6l25-14.9 C132.6,66.1,132.9,66,133.1,66 M67.7,69.5c0.1,0,0.2,0,0.3-0.1c0.1-0.1,0.1-0.2,0.1-0.3c0-0.4-0.3-0.9-0.7-1.1l-4.7-2.7 c-0.2-0.2-0.4-0.2-0.6,0l0,0C62,65.4,62,65.5,62,65.6c0,0.4,0.3,0.9,0.7,1.1l4.7,2.7C67.5,69.5,67.6,69.5,67.7,69.5" clip-rule="evenodd" opacity="0.4"/>
+    <linearGradient id="m" x1="60" x2="139" y1="374.85" y2="374.85" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eaedf6"/>
+      <stop offset="1" stop-color="#f6f8fe"/>
+    </linearGradient>
+    <path fill="url(#m)" fill-rule="evenodd" d="M62.4,60.5c-1.6-0.9-2.4-2.1-2.4-3.3s0.8-2.4,2.4-3.4l15.6-9l15.6-9c3.7-1.9,8-1.9,11.7,0l15.6,9l15.5,9 c1.6,0.9,2.4,2.1,2.4,3.4c0,1.3-0.8,2.4-2.4,3.3l-15.6,9l-15.6,9c-3.7,1.9-8,1.9-11.7,0l-15.6-9L62.4,60.5z" clip-rule="evenodd"/>
+  </g>
+  <g class="animation-element">
+    <linearGradient id="n" x1="172" x2="251" y1="341.6875" y2="341.6875" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cad1e0"/>
+      <stop offset="0.48" stop-color="#bec5d8"/>
+      <stop offset="0.52" stop-color="#d4d9e6"/>
+      <stop offset="1" stop-color="#e4e7f0"/>
+    </linearGradient>
+    <path fill="url(#n)" fill-rule="evenodd" d="M172,73.7h78.9 l0.1,10.9c0,1.2-0.8,2.4-2.4,3.3L233,96.7l-15.6,8.8c-3.7,1.9-8,1.9-11.7,0l-15.5-8.8l-15.6-8.8c-1.6-0.9-2.4-2.1-2.4-3.3V73.7" clip-rule="evenodd"/>
+    <path fill="#142149" fill-rule="evenodd" d="M246.1,82c0.3,0,0.5,0.1,0.7,0.3c0.2,0.2,0.2,0.5,0.2,0.7v5.8l-28,16v-5.3c0.1-1,0.6-2,1.5-2.6l25-14.9 C245.6,82.1,245.8,82,246.1,82 M180.6,85.6c0.1,0,0.2,0,0.3-0.1s0.1-0.2,0.1-0.3c0-0.4-0.3-0.9-0.7-1.1l-4.7-2.7 c-0.1-0.2-0.4-0.2-0.5,0l0,0c-0.1,0.1-0.1,0.2-0.1,0.3c0,0.4,0.3,0.9,0.7,1.1l4.7,2.7C180.4,85.5,180.5,85.6,180.6,85.6" clip-rule="evenodd" opacity="0.4"/>
+    <linearGradient id="o" x1="172" x2="250.995" y1="358.35" y2="358.35" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#eaedf6"/>
+      <stop offset="1" stop-color="#f6f8fe"/>
+    </linearGradient>
+    <path fill="url(#o)" fill-rule="evenodd" d="M174.4,77 c-1.6-0.9-2.4-2.1-2.4-3.3c0-1.2,0.8-2.4,2.4-3.4l15.6-9l15.6-9c3.7-1.9,8-1.9,11.7,0l15.6,9l15.5,9c1.4,0.6,2.3,1.9,2.4,3.4 c0,1.3-0.8,2.4-2.4,3.3l-15.6,9l-15.6,9c-3.7,1.9-8,1.9-11.7,0L190,86L174.4,77z" clip-rule="evenodd"/>
+  </g>
+  <g fill="none" stroke="#007BFC">
+    <path stroke-dasharray="179px" stroke-dashoffset="2.84217e-14px" d="M66.9,259.6c-24,14.7-54.3,33.3-55.9,34.2 c-10.7,6.1-12.7,12.7-2.2,19.6c4.5,2.9,8.4,5.5,11.9,7.7"/>
+    <path stroke-dasharray="48px" stroke-linecap="round" stroke-linejoin="round" d="M19.5,320.2 c10.5,6.1,26.7,15.3,41.7,23.9"/>
+  </g>
+  <g class="animation-element">
+    <path fill="#06F" fill-rule="evenodd" d="M41.3,352.5c-1-12.3,6.9-27.3,17.5-33.4 c5.3-3,10.3-3.3,14-1.3l0,0c0,0,13.1,7.1,18.1,9.8C75.1,344.3,70,342,64.4,373.9c-4.5-2.4-16.1-8.8-16.1-8.8 C44.5,363.2,41.8,358.8,41.3,352.5z" clip-rule="evenodd"/>
+    <path fill="#007BFC" fill-rule="evenodd" d="M61.8,369.6 c-1.2-15.1,8.6-33.4,21.7-40.9c6.6-3.7,12.7-4.1,17.4-1.6l0,0l1.2,0.6l-28.3,58.7l-3.3-1.2C65.8,382.7,62.5,377.3,61.8,369.6z" clip-rule="evenodd"/>
+    <linearGradient id="p" x1="64.6996" x2="112.3004" y1="75.15" y2="75.15" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0397f6"/>
+      <stop offset="1" stop-color="#00baff"/>
+    </linearGradient>
+    <path fill="url(#p)" fill-rule="evenodd" d="M112.2,343.2 c1.2,15.2-8.5,33.6-21.6,41.1s-24.6,1.4-25.8-13.8s8.5-33.6,21.6-41.1S111,328,112.2,343.2z" clip-rule="evenodd"/>
+    <linearGradient id="q" x1="97.7412" x2="107.9253" y1="65.3021" y2="79.0679" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.1976" stop-color="#bbc1d4"/>
+      <stop offset="0.9289" stop-color="#ebeef5"/>
+    </linearGradient>
+    <path fill="url(#q)" fill-rule="evenodd" d="M96.8,357.8l11.4,6.6l0,0c0.6,0.4,1.5,0.4,2.1-0.1c1.5-1,2.5-2.6,2.6-4.4c0.1-0.7-0.2-1.4-0.9-1.8l0,0l-12-6.9l0,0 c-0.6-0.2-1.3,0-1.8,0.3c-1.5,1-2.5,2.6-2.6,4.4C95.5,356.8,96.1,357.4,96.8,357.8z" clip-rule="evenodd"/>
+    <linearGradient id="r" x1="108.3908" x2="111.1395" y1="67.5341" y2="71.8761" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bbc1d4"/>
+      <stop offset="1" stop-color="#ebeef5"/>
+    </linearGradient>
+    <path fill="url(#r)" fill-rule="evenodd" d="M110.3,358.5c-1.5,1-2.5,2.6-2.6,4.4c0,1.6,1.2,2.3,2.6,1.5c1.5-1,2.5-2.6,2.6-4.4C112.9,358.3,111.7,357.6,110.3,358.5z" clip-rule="evenodd"/>
+    <linearGradient id="s" x1="79.74" x2="89.9705" y1="54.9613" y2="68.764" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="5.062721e-02" stop-color="#bbc1d4"/>
+      <stop offset="0.776" stop-color="#ebeef5"/>
+    </linearGradient>
+    <path fill="url(#s)" fill-rule="evenodd" d="M78.1,369.1l11.4,6.6l0,0c0.6,0.4,1.5,0.4,2.1-0.1c1.5-1,2.5-2.6,2.6-4.4c0.1-0.7-0.2-1.5-0.9-1.8l0,0l-12-6.9l0,0 c-0.6-0.2-1.3,0-1.8,0.3c-1.5,1-2.5,2.6-2.6,4.4C76.8,368.1,77.3,368.7,78.1,369.1z" clip-rule="evenodd"/>
+    <linearGradient id="t" x1="89.375" x2="92.8221" y1="56.8899" y2="60.7013" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bbc1d4"/>
+      <stop offset="1" stop-color="#ebeef5"/>
+    </linearGradient>
+    <path fill="url(#t)" fill-rule="evenodd" d="M91.6,369.7c-1.5,1-2.5,2.6-2.6,4.4c0,1.6,1.2,2.3,2.6,1.5c1.5-1,2.5-2.6,2.6-4.4C94.1,369.5,93,368.9,91.6,369.7z" clip-rule="evenodd"/>
+    <path fill="#06F" fill-rule="evenodd" d="M88.4,342.4 c-2.1,1.4-3.5,3.7-3.6,6.2c0,2.3,1.6,3.2,3.6,2.1c2.1-1.4,3.5-3.7,3.6-6.2C92,342.2,90.3,341.2,88.4,342.4z" clip-rule="evenodd"/>
+  </g>
+  <path fill="#223A9F" fill-rule="evenodd" d="M291.7,361.2l97.7-56.6c5.6-3.2,15.3-2.8,21.7,0.9l94.5,54.6c6.4,3.7,7.1,9.3,1.6,12.5l-97.7,56.6c-5.6,3.2-15.3,2.8-21.7-0.9 l-94.5-54.6C286.9,370,286.2,364.4,291.7,361.2z" class="animation-element" clip-rule="evenodd" opacity="0.1"/>
+  <g class="animation-element">
+    <path fill="#295FE6" fill-rule="evenodd" d="M511,321.3h-0.4c1.1,2.7,0,5.5-3.3,7.5 l-97.7,56.5c-5.6,3.2-15.3,2.8-21.7-0.9l-94.5-54.6c-3.5-2-5.3-4.7-5.3-7.1l0,0v-34.4h223L511,321.3L511,321.3z" clip-rule="evenodd"/>
+    <path fill="#029FF8" fill-rule="evenodd" d="M291.7,282.8l97.7-56.6 c5.6-3.2,15.3-2.8,21.7,0.9l94.5,54.6c6.4,3.7,7.1,9.3,1.6,12.5l-97.7,56.6c-5.6,3.2-15.3,2.8-21.7-0.9l-94.5-54.6 C286.9,291.7,286.2,286,291.7,282.8z" clip-rule="evenodd"/>
+    <path fill="#F8F8F8" fill-rule="evenodd" d="M373.9,280.7l28.9-4.5l21.2,12.4l-28.9,4.5L373.9,280.7 z M404.8,275l21.2,12.4l7.7-16.9l-21.2-12.4L404.8,275z M341.7,285.6L363,298l28.9-4.5l-21.2-12.4L341.7,285.6z M418.7,306.8 l28.9-4.5L426.5,290l-0.1-0.1l-28.9,4.5L418.7,306.8z" clip-rule="evenodd"/>
+    <linearGradient id="u" x1="339.175" x2="320.4922" y1="56.9538" y2="99.7168" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="4.189944e-02" stop-color="#bbc1d4"/>
+      <stop offset="0.7833" stop-color="#ebeef5"/>
+    </linearGradient>
+    <path fill="url(#u)" fill-rule="evenodd" d="M349.4,351.6l-31,17.9l-0.1-0.2c-1.3,1.1-3.2,1.2-5.5-0.1c-4.1-2.6-6.7-7.1-7-11.9c0-2.4,0.9-4,2.4-4.6l-0.1-0.1l32.5-18.6 l0.2,0.4c1.2-0.6,2.9-0.4,4.7,0.6c4.1,2.6,6.7,7.1,7,11.9C352.5,349.5,351.3,351.3,349.4,351.6z" clip-rule="evenodd"/>
+    <path fill="#F7F8FC" fill-rule="evenodd" d="M312.8,353.3 c4.1,2.6,6.7,7.1,7,11.9c0,4.4-3.1,6.2-7,4c-4.1-2.6-6.7-7.1-7-11.9C305.9,352.9,309,351.1,312.8,353.3z" clip-rule="evenodd"/>
+    <path fill="#BFC6D9" fill-rule="evenodd" d="M312.8,354.9 c3.3,2.1,5.4,5.7,5.6,9.5c0,3.5-2.5,4.9-5.6,3.2c-3.3-2.1-5.4-5.7-5.6-9.6C307.3,354.6,309.8,353.1,312.8,354.9z" clip-rule="evenodd"/>
+  </g>
+  <g class="animation-element">
+    <path fill="#007BFC" fill-rule="evenodd" d="M107.3,395c-1.6-15.1,7.7-33.7,20.6-41.5 c6.5-3.9,12.6-4.4,17.4-2.1l0,0l1.2,0.6l-26.7,59.4l-3.3-1.1C111.6,408,108.1,402.8,107.3,395z" clip-rule="evenodd"/>
+    <linearGradient id="v" x1="109.7996" x2="157.4004" y1="50.1411" y2="50.1411" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0397f6"/>
+      <stop offset="1" stop-color="#00baff"/>
+    </linearGradient>
+    <path fill="url(#v)" fill-rule="evenodd" d="M109.9,395.5 c-1.2-15.2,8.5-33.6,21.6-41.1s24.6-1.3,25.8,13.8s-8.5,33.6-21.6,41.1S111.1,410.7,109.9,395.5z" clip-rule="evenodd"/>
+    <path fill="#06F" fill-rule="evenodd" d="M180.8,387.2c-0.5-6.2-3.1-10.5-6.9-12.5l0.1-0.1 c-5-2.7-18.1-9.8-18.1-9.8l0,0c-3.8-2-8.8-1.7-14,1.3c-10.6,6.1-18.5,21.1-17.5,33.4l0,0c0.5,6.2,3.1,10.5,6.9,12.5 c0,0,0,0-0.1,0.1c5,2.7,18.1,9.8,18.1,9.8l0,0c3.8,2,8.8,1.7,14-1.3C173.9,414.5,181.7,399.5,180.8,387.2z" clip-rule="evenodd"/>
+  </g>
+  <path fill="none" stroke="#007BFC" stroke-dasharray="200px" stroke-dashoffset="-2.84217e-14px" d="M167.8,398.8c19.1,11,20.2,12.1,20.2,12.1 c11.1,6.4,30.4,5.6,43.2-1.8c0,0,40.4-23.4,85.4-49.4"/>
+  <g class="animation-element">
+    <path fill="none" d="M347.5,228.6l160.6,0.1v-83.4l-160.6,0.1V228.6z" clip-rule="evenodd" opacity="0.5"/>
+    <linearGradient id="w" x1="347.5" x2="508.4" y1="303.2091" y2="303.2091" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="1.000000e-02" stop-color="#353d6c"/>
+      <stop offset="1" stop-color="#636f99"/>
+    </linearGradient>
+    <path fill="url(#w)" fill-rule="evenodd" d="M347.5,144.8c0,0,0,0.1,0,0.3 c0,0.3,0,0.7,0,1h0.2c0.8,3.1,2.9,5.7,5.6,7.2l58.2,34.9c9,5.1,22,5.1,32.7-1.2l58.9-34c4.3-2.5,5.2-5.3,5.3-6.9l0,0V146 c0-0.2,0-0.5,0-0.7c-0.5-44.4-36.8-80.1-81.3-79.6C383.5,66,348.2,101.1,347.5,144.8L347.5,144.8L347.5,144.8z" clip-rule="evenodd"/>
+    <path fill="#F0F1F5" fill-rule="evenodd" d="M387.9,79.2c0,0.3,0,0.5,0,0.8s0,0.5,0,0.8 s0,0.5,0,0.8s0,0.5,0,0.8s0,0.5,0,0.8s0,0.5,0,0.8s0,0.5,0,0.8s0,0.5,0,0.8s0,0.5,0,0.8s0,0.5,0,0.8s0,0.5,0,0.8c0,0.2,0,0.4,0,0.6 c-0.2,5.5,3.1,11,9.9,15.4l68.1,54.7l-0.3-70l0,0c0-0.2,0-0.4,0-0.6c0-0.3,0-0.5,0-0.8s0-0.5,0-0.8s0-0.5,0-0.8s0-0.5,0-0.8 s0-0.5,0-0.8s0-0.5,0-0.8s0-0.5,0-0.8s0-0.5,0-0.8s0-0.5,0-0.8s0-0.5,0-0.8s0-0.5,0-0.8c0.3-5.9-3.5-11.9-11.4-16.4 c-15.2-8.8-39.8-8.8-55,0C391.4,67.3,387.7,73.3,387.9,79.2z" clip-rule="evenodd"/>
+    <path fill="#007BFC" fill-rule="evenodd" d="M479.6,165.7l-22.9,13.1l-18.6-94.2 L479.6,165.7z" clip-rule="evenodd"/>
+    <path fill="#007BFC" fill-rule="evenodd" d="M451.5,91.6l-2.4,16.5l-6.3,3.1l-12.6-12.6 L451.5,91.6z" clip-rule="evenodd"/>
+    <path fill-rule="evenodd" d="M458.7,107.5 l-16.4-7.2l-8.5,17l-0.7-19l14.4-3.9L458.7,107.5z" clip-rule="evenodd" opacity="0.1"/>
+    <path fill="#FFF" fill-rule="evenodd" d="M387.9,92.4c-0.2,5.9,3.6,11.8,11.4,16.2 c8.8,5.1,22.4,8.7,34.8,8.8l7.2-21.1l17.4,11.1c3.7-3.9,7.1-9,6.9-15.1c0-0.2,0-16.2,0-16.6c0.1-5.8-3.7-11.7-11.4-16.1 c-15.2-8.8-39.8-8.8-55,0c-7.7,4.4-11.5,10.3-11.4,16.1c0,0.4,0,0.8,0,1.2C387.9,77.2,387.9,92.2,387.9,92.4z" clip-rule="evenodd"/>
+    <linearGradient id="x" x1="378.9" x2="475.5" y1="381.3" y2="381.3" gradientTransform="matrix(1 0 0 -1 0 432)" gradientUnits="userSpaceOnUse">
+      <stop offset="1.000000e-02" stop-color="#bdc3d5"/>
+      <stop offset="1" stop-color="#e4e8ef"/>
+    </linearGradient>
+    <circle cx="427.2" cy="50.7" r="48.3" fill="url(#x)"/>
+  </g>
+</svg>

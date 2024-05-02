@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="container-orchestration" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 152 152" enable-background="new 0 0 152 152" xml:space="preserve">
+<g id="lines">
+	<path id="Kształt_1559_kopia" fill="none" stroke="#0066FF" d="M133.2,50.9c0,0-31.3,18.3-36.2,21.2s-5.9,5.9-1,9.1
+		c18.2,11.8,15.9,10,29.2,18.1c3.9,2.4,7.1,3.7,10.1,2c3.5-2.1,7-4,7-4"/>
+	<path id="Prostokąt_zaokrąglony_1402_kopia_16" fill="none" stroke="#0066FF" d="M44.8,132.1l35-19.2c2.5-1.4,7-1.2,9.9,0.4
+		l30.1,19.2"/>
+	<path id="Kształt_1559_kopia_2" fill="none" stroke="#0066FF" d="M46.8,69c18.2,11.8,51.1,32.1,64.4,40.2c3.9,2.4,7.1,3.8,10.1,2
+		c3.5-2.1,7-4,7-4"/>
+</g>
+<g id="scale">
+	<g id="kubernetes">
+		
+			<linearGradient id="Elipsa_1_1_" gradientUnits="userSpaceOnUse" x1="0" y1="97.8398" x2="58.0025" y2="97.8398" gradientTransform="matrix(1 0 0 -1 0 151.8898)">
+			<stop  offset="0" style="stop-color:#AFCDFD"/>
+			<stop  offset="1" style="stop-color:#D7E6FE"/>
+		</linearGradient>
+		<path id="Elipsa_1" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Elipsa_1_1_)" d="M58,34.3c0,0-0.1,18,0,22.5
+			s-2.8,8.7-8.5,12.1c-11.3,6.8-29.6,6.8-40.9,0C3,65.6,0,61.2,0,56.8c0-4.6,0-22.7,0-22.7L58,34.3z"/>
+		<g transform="translate(-1353 -1514.5)">
+			<path id="Elipsa_1-2" fill="none" d="M1410.4,1559.8c0,4.2-2.8,8.5-8.3,11.7c-11.1,6.5-29.1,6.5-40.2,0
+				c-5.6-3.3-8.4-7.6-8.3-11.8"/>
+		</g>
+		<g transform="translate(-1353 -1514.5)">
+			
+				<linearGradient id="Elipsa_1-2_2_" gradientUnits="userSpaceOnUse" x1="2706.0999" y1="98.3523" x2="2763.9026" y2="98.3523" gradientTransform="matrix(1 0 0 -1 -1353 1666.3898)">
+				<stop  offset="0" style="stop-color:#97BEFC"/>
+				<stop  offset="1" style="stop-color:#ABCAFF"/>
+			</linearGradient>
+			<path id="Elipsa_1-2_1_" fill="none" stroke="url(#Elipsa_1-2_2_)" stroke-linecap="round" stroke-miterlimit="10" d="
+				M1410.4,1559.8c0,4.2-2.8,8.5-8.3,11.7c-11.1,6.5-29.1,6.5-40.2,0c-5.6-3.3-8.4-7.6-8.3-11.8"/>
+		</g>
+		
+			<linearGradient id="Elipsa_1-3_1_" gradientUnits="userSpaceOnUse" x1="2.500030e-02" y1="118.8586" x2="57.975" y2="118.8586" gradientTransform="matrix(1 0 0 -1 0 151.8898)">
+			<stop  offset="0" style="stop-color:#97BEFC"/>
+			<stop  offset="1" style="stop-color:#ABCAFF"/>
+		</linearGradient>
+		<path id="Elipsa_1-3" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Elipsa_1-3_1_)" d="M49.5,21c11.3,6.7,11.3,17.5,0,24.1
+			s-29.7,6.6-41,0S-2.8,27.6,8.5,21S38.2,14.3,49.5,21z"/>
+	</g>
+	<g id="kubernetes-2">
+		<path id="Elipsa_1-4" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#142149" d="M151.5,17.2
+			c0,0-0.1,29.5,0,33.9s-2.8,8.6-8.5,11.9c-11.3,6.7-29.6,6.6-40.9,0c-5.6-3.3-8.6-7.6-8.6-11.9c0-4.5,0-34.1,0-34.1L151.5,17.2z"/>
+		<path id="Elipsa_1-5" fill="none" stroke="#142149" stroke-linecap="round" stroke-linejoin="round" d="M151.5,40
+			c0,4.4-2.8,8.7-8.5,12.1c-11.3,6.7-29.7,6.7-41,0c-5.7-3.4-8.5-7.8-8.5-12.2"/>
+		<path id="Elipsa_1-6" fill="none" stroke="#142149" stroke-linecap="round" stroke-linejoin="round" d="M151.5,27.8
+			c0,4.4-2.8,8.7-8.5,12.1c-11.3,6.7-29.7,6.7-41,0c-5.7-3.4-8.5-7.8-8.5-12.2"/>
+		<path id="Elipsa_1-7" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#142149" d="M143,4.9
+			c11.3,6.6,11.3,17.2,0,23.7s-29.7,6.5-41,0s-11.3-17.2,0-23.7S131.7-1.7,143,4.9z"/>
+	</g>
+	<g id="kubernetes-3">
+		<g id="Grupa_144">
+			<path id="Elipsa_1-8" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#142149" d="M70.5,122.1
+				c0,0-0.1,8.3,0,12.7c0.1,4.5-2.8,8.7-8.5,12.1c-11.3,6.8-29.6,6.8-40.9,0c-5.6-3.3-8.6-7.7-8.5-12.1c0-4.6,0-12.9,0-12.9
+				L70.5,122.1z"/>
+			<path id="Elipsa_1-9" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#142149" d="M62,110.1
+				c11.3,6.7,11.3,17.5,0,24.2c-11.3,6.7-29.7,6.7-41,0c-11.3-6.7-11.3-17.5,0-24.2S50.7,103.4,62,110.1z"/>
+		</g>
+		<g id="arrow">
+			<path id="Kształt_1245_kopia_5" fill-rule="evenodd" clip-rule="evenodd" fill="#1A6EE2" stroke="#1A6EE2" d="M25.5,113v18"/>
+			
+				<path id="Kształt_1249_kopia_5" fill-rule="evenodd" clip-rule="evenodd" fill="#1A6EE2" stroke="#1A6EE2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+				M24,129l1.5,3l1.5-3H24z"/>
+			<path id="Kształt_1245_kopia_4" fill-rule="evenodd" clip-rule="evenodd" fill="#1A6EE2" stroke="#1A6EE2" d="M57.5,115v16"/>
+			
+				<path id="Kształt_1249_kopia_4" fill-rule="evenodd" clip-rule="evenodd" fill="#1A6EE2" stroke="#1A6EE2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+				M56,129l1.5,3l1.5-3H56z"/>
+		</g>
+		<g id="Grupa_144-2">
+			<path id="Elipsa_1-10" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#142149" d="M70.5,96c0,0-0.1,7.4,0,11.8
+				s-2.8,8.7-8.5,12.1c-11.3,6.7-29.6,6.7-40.9,0c-5.6-3.3-8.6-7.7-8.5-12.1c0-4.6,0-12.1,0-12.1L70.5,96z"/>
+			<path id="Elipsa_1-11" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#142149" d="M62,83
+				c11.3,6.7,11.3,17.5,0,24.2s-29.7,6.7-41,0C9.7,100.6,9.7,89.7,21,83S50.7,76.3,62,83z"/>
+		</g>
+	</g>
+</g>
+<g id="dev">
+	<path id="Prostokąt_zaokrąglony_1242" fill-rule="evenodd" clip-rule="evenodd" fill="#007BFC" d="M110.5,105l36-23.4
+		c1.9-1.2,3.5-0.5,3.5,1.5v37.2c-0.2,2.3-1.5,4.4-3.5,5.7l-36,23.4c-1.9,1.2-3.5,0.5-3.5-1.5v-37.2
+		C107.2,108.3,108.5,106.2,110.5,105z"/>
+	
+		<path id="Kształt_1556_kopia_5" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="
+		M136.5,105.3l7.5,2.7l-7.5,11.3 M123.6,112.5l-7.5,11.1l7.5,2.8 M128.3,126l4.1-21.5"/>
+</g>
+</svg>

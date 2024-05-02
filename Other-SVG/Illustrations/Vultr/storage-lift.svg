@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" data-sidecluster="" class="svg-illustration svg-illustration--cpu animation-element" version="1.1" id="cluster-right" x="0px" y="0px" viewBox="0 0 167 287.4" enable-background="new 0 0 167 287.4" xml:space="preserve" style="opacity: 1;">
+<g data-sidecluster="" id="cluster-2" style="opacity: 1;">
+	<g data-sidecluster-bottom="" id="_3">
+
+			<linearGradient id="Elipsa_1_1_" gradientUnits="userSpaceOnUse" x1="2" y1="77.1125" x2="166.0036" y2="77.1125" gradientTransform="matrix(1 0 0 -1 0 288)">
+			<stop offset="0" style="stop-color:#1D53DA"/>
+			<stop offset="1" style="stop-color:#3F75FC"/>
+		</linearGradient>
+		<path id="Elipsa_1" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Elipsa_1_1_)" d="M166,168.9c0,0-0.1,25,0,37    c0.2,12.2-8,23.8-24.1,33.1c-31.9,18.5-83.8,18.5-115.7,0C10.4,229.9,2,217.9,2,206c0-12.5,0-37,0-37L166,168.9z"/>
+
+			<linearGradient id="Elipsa_1-2_1_" gradientUnits="userSpaceOnUse" x1="2.0499" y1="117.0438" x2="165.9501" y2="117.0438" gradientTransform="matrix(1 0 0 -1 0 288)">
+			<stop offset="0" style="stop-color:#0B3EBF"/>
+			<stop offset="1" style="stop-color:#2E5FDB"/>
+		</linearGradient>
+		<path id="Elipsa_1-2" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Elipsa_1-2_1_)" d="M141.9,137.6    c32,18.5,32.1,48.4,0.1,66.8s-83.9,18.4-115.9,0S-6,155.9,26,137.5S109.9,119.1,141.9,137.6z"/>
+	</g>
+	<g data-sidecluster-center="" id="_2" style="transform: translateY(0px);">
+
+			<linearGradient id="Elipsa_1-3_1_" gradientUnits="userSpaceOnUse" x1="2" y1="116.1125" x2="166.0036" y2="116.1125" gradientTransform="matrix(1 0 0 -1 0 288)">
+			<stop offset="0" style="stop-color:#1D53DA"/>
+			<stop offset="1" style="stop-color:#3F75FC"/>
+		</linearGradient>
+		<path id="Elipsa_1-3" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Elipsa_1-3_1_)" d="M166,129.9c0,0-0.1,25,0,37    c0.2,12.2-8,23.8-24.1,33.1c-31.9,18.5-83.8,18.5-115.7,0C10.4,190.9,2,178.9,2,167c0-12.5,0-37,0-37L166,129.9z"/>
+
+			<linearGradient id="Elipsa_1-4_1_" gradientUnits="userSpaceOnUse" x1="2.0499" y1="156.025" x2="165.9501" y2="156.025" gradientTransform="matrix(1 0 0 -1 0 288)">
+			<stop offset="0" style="stop-color:#0B3EBF"/>
+			<stop offset="1" style="stop-color:#2E5FDB"/>
+		</linearGradient>
+		<path id="Elipsa_1-4" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Elipsa_1-4_1_)" d="M141.9,98.6    c32,18.5,32.1,48.3,0.1,66.8s-83.9,18.4-115.9,0S-6,116.9,26,98.5S109.9,80.1,141.9,98.6z"/>
+	</g>
+</g>
+<g data-sidecluster-top="" style="transform: translateY(-1.77636e-15px); opacity: 1;">
+	<g id="_1">
+
+		<linearGradient id="Elipsa_1-5_1_" gradientUnits="userSpaceOnUse" x1="2" y1="155.1125" x2="166.0036" y2="155.1125" gradientTransform="matrix(1 0 0 -1 0 288)">
+		<stop offset="0" style="stop-color:#1D53DA"/>
+		<stop offset="1" style="stop-color:#3F75FC"/>
+	</linearGradient>
+	<path id="Elipsa_1-5" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Elipsa_1-5_1_)" d="M166,90.9c0,0-0.1,25,0,37   c0.2,12.2-8,23.8-24.1,33.1c-31.9,18.5-83.8,18.5-115.7,0C10.4,151.9,2,139.9,2,128c0-12.5,0-37,0-37L166,90.9z"/>
+
+		<linearGradient id="Elipsa_1-6_1_" gradientUnits="userSpaceOnUse" x1="2.0499" y1="194.025" x2="165.9501" y2="194.025" gradientTransform="matrix(1 0 0 -1 0 288)">
+		<stop offset="0" style="stop-color:#0397F6"/>
+		<stop offset="1" style="stop-color:#00BAFF"/>
+	</linearGradient>
+	<path id="Elipsa_1-6" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Elipsa_1-6_1_)" d="M141.9,60.6   c32,18.5,32.1,48.3,0.1,66.8s-83.9,18.4-115.9,0S-6,78.9,26,60.5S109.9,42.1,141.9,60.6z"/>
+</g>
+<g id="lift">
+	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M91.7,14.5c-0.2-1.8-1.1-3.5-2.4-4.8c-0.3-0.3-0.6-0.5-1-0.7   c1.4-0.8,2.3-2.3,2.3-4.1c0-2.6-2.1-4.8-4.8-4.8S80.9,2.2,81,4.9c0,2.2,1.5,4,3.5,4.6c0,0.1,0,0.1,0,0.2c0,1.6,1.7,2.5,2.4,3.6   c1.2,1.7,0.5,3.4-1.2,3.6c-2.8,0.4-3.1-3.2-4.8-3.6c-1.4-0.3-2.5,0.5-2.4,2.4c0.3,3.2,2.8,5.7,6,6c3.4,0.6,6.6-1.7,7.2-5.1   C91.8,15.9,91.8,15.2,91.7,14.5z"/>
+	<g id="lines">
+		<path id="path-right" fill="none" stroke="#BBDFFE" stroke-width="2" stroke-linecap="round" d="M85,140.4c0-30.3,0-123.6,0-123.7    "/>
+		<path id="path-right-2" fill="none" stroke="#BBDFFE" stroke-width="2" d="M3.9,87.7c18.3-15,81.4-49,81.5-49"/>
+		<path id="path-right-3" fill="none" stroke="#BBDFFE" stroke-width="2" d="M162.5,87.6c-18.5-15-77-48.9-77.1-48.9"/>
+		<circle id="Elipsa_2280" fill="#BBDFFE" cx="163.5" cy="88.9" r="3.5"/>
+		<path id="Elipsa_2280-2" fill-rule="evenodd" clip-rule="evenodd" fill="#BBDFFE" d="M84.9,135.5c1.9,0,3.4,1.5,3.4,3.4    s-1.6,3.4-3.4,3.4c-1.9,0-3.4-1.5-3.4-3.4S83,135.5,84.9,135.5L84.9,135.5z"/>
+		<circle id="Elipsa_2280-3" fill="#BBDFFE" cx="84.7" cy="40.5" r="3.5"/>
+		<circle id="Elipsa_2280-4" fill="#BBDFFE" cx="3.5" cy="88.9" r="3.5"/>
+	</g>
+</g>
+</g>
+
+<g id="light_1_">
+
+		<linearGradient id="Kształt_1231_kopia_22_2_" gradientUnits="userSpaceOnUse" x1="84" y1="14.9977" x2="84" y2="-183.0898" gradientTransform="matrix(1 0 0 1 0 237.8898)">
+		<stop offset="0" style="stop-color:#17BDFF"/>
+		<stop offset="0.8" style="stop-color:#17BDFF;stop-opacity:0"/>
+	</linearGradient>
+	<path id="Kształt_1231_kopia_22_1_" opacity="0.8" fill="url(#Kształt_1231_kopia_22_2_)" enable-background="new    " d="   M166,204.5c0,12.7-5.7,23.3-24.1,34.8c-32,18.1-82.9,18.1-114.9,0.1c-17-9.6-25-20.9-25-35.8V54.8h164V192V204.5z"/>
+
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="84.1" y1="14.9353" x2="84.1" y2="-213.6898" gradientTransform="matrix(1 0 0 1 0 237.8898)">
+		<stop offset="0" style="stop-color:#51B9FF"/>
+		<stop offset="0.7" style="stop-color:#2389F0;stop-opacity:0.7"/>
+		<stop offset="1" style="stop-color:#2389F0;stop-opacity:0"/>
+	</linearGradient>
+	<path opacity="0.16" fill="url(#SVGID_1_)" enable-background="new    " d="M166,24.2H2.1l0.3,178.6c0,13.7,6,26.5,23.7,36.5   c32,18.1,83.9,18,115.9-0.1c17.1-9.7,24.1-22.3,24.1-35C166,203.6,166,24.2,166,24.2z"/>
+
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="83.9397" y1="-35.7898" x2="83.9397" y2="49.1102" gradientTransform="matrix(1 0 0 1 0 237.8898)">
+		<stop offset="0" style="stop-color:#17BDFF"/>
+		<stop offset="0.9759" style="stop-color:#17BDFF;stop-opacity:0"/>
+	</linearGradient>
+	<path opacity="0.24" fill="url(#SVGID_2_)" enable-background="new    " d="M165.8,202.4c1.5,13-6.4,26.4-23.8,36.3   c-32,18.3-84,18.4-116,0.1c-15.9-9.1-24-21.1-24.1-33c0,0.4,0,0.8,0,1.3V287l164-0.5v-84.4C165.9,202.1,165.8,202.2,165.8,202.4z"/>
+</g>
+</svg>

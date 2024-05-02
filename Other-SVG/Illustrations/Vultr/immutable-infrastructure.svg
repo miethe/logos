@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="immutable-infrastructure" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 152 152" enable-background="new 0 0 152 152" xml:space="preserve">
+<path id="libe_1_" fill="none" stroke="#0066FF" d="M35.8,102.1c-13,7.5-24.4,14.1-27.9,16.3c-6.9,4.2-6.4,8.4-0.4,11.8
+	c5.8,3.3,19.7,12.6,28.4,17.2c5.1,2.7,10.3,5.2,19,0c13-7.7,20.7-11.7,26-15c10.9-6.9,13.6-6.1,23-1c12.3,6.8,15,8,15,8"/>
+<g id="kubernetes">
+	<g id="pods">
+		<g id="Grupa_153">
+			<path id="Elipsa_1" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#142149" d="M91.5,66.9c0,0-0.1,16.1,0,22.7
+				c0.1,6.7-4.3,13.1-13.1,18.2C61.1,118,33,118,15.6,107.9c-8.6-5-13.1-11.6-13.1-18.2c0-6.9,0-19,0-23.2"/>
+		</g>
+	</g>
+	<g id="pods-2">
+		<g id="Grupa_153-2">
+			<path id="Elipsa_1-2" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" stroke="#142149" d="M91.5,50.9
+				c0,0-0.1,11.1,0,17.7c0.1,6.7-4.3,13.1-13.1,18.2C61.1,97,33,97,15.6,86.8c-8.6-5-13.1-11.6-13.1-18.2c0-6.9,0-14,0-18.1"/>
+		</g>
+	</g>
+	<g id="pods-3">
+		<path id="Elipsa_1-3" fill="none" stroke="#0066FF" stroke-dasharray="4,2" d="M91.8,26.9c0,0-0.1,12.7,0,19.2 M2.8,44.7
+			c0-6.9,0-14,0-18.2"/>
+		<path id="Elipsa_1_kopia" fill="none" stroke="#0066FF" stroke-dasharray="4,2" d="M78.4,30c17.4,10,17.4,26.1,0,36.1
+			S32.9,76,15.6,66s-17.4-26.1,0-36.1c8.2-4.7,18.7-7.2,29.4-7.4c2.1-0.1,4.3,0,6.4,0.1c2.2,0.1,4.3,0.3,6.4,0.6
+			C65,24.2,72,26.4,78.4,30z"/>
+		<g id="Grupa_152">
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5_1_" gradientUnits="userSpaceOnUse" x1="34.2059" y1="21.9421" x2="57.8909" y2="21.9421" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#97BEFC"/>
+				<stop  offset="1" style="stop-color:#ABCAFF"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5_1_)" d="
+				M35.3,36.5L35.3,36.5c-0.8-0.8-1.2-1.8-1.1-2.9l0-14.4c0-3.4,2.7-7.8,6.2-9.8l7-4.6c2.1-1.2,3.9-1.2,5-0.3l0,0l5.4,3.1L41.5,40.1
+				L35.3,36.5z"/>
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-2_1_" gradientUnits="userSpaceOnUse" x1="39.6295" y1="23.6004" x2="59.0396" y2="23.6004" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#AFCDFD"/>
+				<stop  offset="1" style="stop-color:#D7E6FE"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-2" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-2_1_)" d="
+				M59,10.5l-0.3,14.8c0,3.4-1.1,7-4.5,9l-8.4,5c-3.4,2-6.2,0.8-6.2-2.6l0-14.4c0-3.4,2.7-7.8,6.2-9.8l7-4.6
+				C56.2,5.9,59,7.1,59,10.5z"/>
+		</g>
+		<g id="Grupa_152-2">
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-3_1_" gradientUnits="userSpaceOnUse" x1="11.0948" y1="35.6107" x2="34.3747" y2="35.6107" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#97BEFC"/>
+				<stop  offset="1" style="stop-color:#ABCAFF"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-3" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-3_1_)" d="
+				M12.2,49.8L12.2,49.8c-0.8-0.8-1.2-1.8-1.1-2.9l0-14c0-3.3,2.7-7.6,6-9.5L24,19c2-1.2,3.8-1.2,4.9-0.3l0,0l5.5,2.6l-15.8,32
+				L12.2,49.8z"/>
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-4_1_" gradientUnits="userSpaceOnUse" x1="16.9674" y1="37.2717" x2="36.0276" y2="37.2717" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#AFCDFD"/>
+				<stop  offset="1" style="stop-color:#D7E6FE"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-4" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-4_1_)" d="
+				M36,24.5l-0.1,14.3c0,3.3-1.3,7.2-4.6,9.1l-8.2,4.9c-3.3,1.9-6.1,0.8-6.1-2.5l0-14.1c0-3.3,2.7-7.6,6-9.6l6.9-4.6
+				C33.3,20,36,21.1,36,24.5z"/>
+		</g>
+		<g id="Grupa_152-3">
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-5_1_" gradientUnits="userSpaceOnUse" x1="46.2706" y1="29.2821" x2="69.9617" y2="29.2821" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#97BEFC"/>
+				<stop  offset="1" style="stop-color:#ABCAFF"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-5" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-5_1_)" d="
+				M47.4,43.8L47.4,43.8c-0.8-0.8-1.2-1.8-1.1-2.9l0-14.4c0-3.4,2.7-7.8,6.2-9.8l7-4.6c2.1-1.2,3.9-1.2,5-0.3l0,0l5.4,3.1L53.6,47.4
+				L47.4,43.8z"/>
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-6_1_" gradientUnits="userSpaceOnUse" x1="51.6862" y1="30.944" x2="71.1003" y2="30.944" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#AFCDFD"/>
+				<stop  offset="1" style="stop-color:#D7E6FE"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-6" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-6_1_)" d="
+				M71.1,17.8l-0.1,15.1c0,3.4-1.3,6.8-4.7,8.7l-8.4,5c-3.4,2-6.2,0.8-6.2-2.6l0-14.4c0-3.4,2.8-7.8,6.2-9.8l7-4.6
+				C68.3,13.2,71.1,14.4,71.1,17.8z"/>
+		</g>
+		<g id="Grupa_152-4">
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-7_1_" gradientUnits="userSpaceOnUse" x1="22.8461" y1="42.952" x2="46.538" y2="42.952" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#97BEFC"/>
+				<stop  offset="1" style="stop-color:#ABCAFF"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-7" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-7_1_)" d="
+				M24,57.6L24,57.6c-0.8-0.8-1.2-1.9-1.1-2.9l0-14.4c0-3.4,2.7-7.8,6.2-9.8l7-4.6c2.1-1.2,3.9-1.2,5-0.3l0,0l5.4,3.1L30.2,61.1
+				L24,57.6z"/>
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-8_1_" gradientUnits="userSpaceOnUse" x1="28.2664" y1="44.6103" x2="47.7579" y2="44.6103" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#AFCDFD"/>
+				<stop  offset="1" style="stop-color:#D7E6FE"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-8" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-8_1_)" d="
+				M47.7,31.5l0.1,14.6c0,3.4-1.5,7.2-4.9,9.2l-8.4,5c-3.4,2-6.2,0.8-6.2-2.6l0-14.4c0-3.4,2.8-7.8,6.2-9.8l7-4.6
+				C44.9,27,47.7,28.1,47.7,31.5z"/>
+		</g>
+		<g id="Grupa_152-5">
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-9_1_" gradientUnits="userSpaceOnUse" x1="57.7966" y1="36.2667" x2="81.7654" y2="36.2667" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#97BEFC"/>
+				<stop  offset="1" style="stop-color:#ABCAFF"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-9" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-9_1_)" d="
+				M59,50.5L59,50.5c-0.8-0.8-1.2-1.9-1.1-3l0.4-13.7c0-3.5,2.8-7.9,6.3-9.9l6.9-4.7c2.1-1.2,4-1.2,5.1-0.3l0,0l5.3,3.6L65.2,54.2
+				L59,50.5z"/>
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-10_1_" gradientUnits="userSpaceOnUse" x1="63.9648" y1="38.3955" x2="83.025" y2="38.3955" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#AFCDFD"/>
+				<stop  offset="1" style="stop-color:#D7E6FE"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-10" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-10_1_)" d="
+				M83,25.5l0,14.1c0,3.3-1.3,7.3-4.7,9.2l-8.2,4.9c-3.3,1.9-6.1,0.8-6.1-2.5l0-14.1c0-3.3,2.7-7.6,6-9.6l6.9-4.6
+				C80.3,21,83,22.1,83,25.5z"/>
+		</g>
+		<g id="Grupa_152-6">
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-11_1_" gradientUnits="userSpaceOnUse" x1="35.233" y1="50.2883" x2="58.6304" y2="50.2883" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#97BEFC"/>
+				<stop  offset="1" style="stop-color:#ABCAFF"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-11" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-11_1_)" d="
+				M36.4,65.6L36.4,65.6c-0.8-0.8-1.2-1.9-1.1-3l0-15c0-3.5,2.8-7.9,6.3-9.9l7.1-4.7c2.1-1.2,4-1.2,5.1-0.3l0,0l4.8,2.8L41.7,68.6
+				L36.4,65.6z"/>
+			
+				<linearGradient id="Prostokąt_zaokrąglony_1402_kopia_5-12_1_" gradientUnits="userSpaceOnUse" x1="40.0562" y1="52.0653" x2="60.0853" y2="52.0653" gradientTransform="matrix(1 -2.346547e-03 2.346547e-03 1 -8.498406e-02 0.1115)">
+				<stop  offset="0" style="stop-color:#AFCDFD"/>
+				<stop  offset="1" style="stop-color:#D7E6FE"/>
+			</linearGradient>
+			
+				<path id="Prostokąt_zaokrąglony_1402_kopia_5-12" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Prostokąt_zaokrąglony_1402_kopia_5-12_1_)" d="
+				M60,38.6L60.1,53c0,3.5-1.5,8-5,10.1l-8.6,5.1c-3.5,2-6.3,0.8-6.3-2.7l0-14.8c0-3.5,2.8-8,6.3-10l7.2-4.8
+				C57.2,33.9,60,35.1,60,38.6z"/>
+		</g>
+		<g id="Grupa_153-3">
+			<path id="Elipsa_1-4" fill="none" stroke="#0066FF" stroke-dasharray="4,2" d="M78.7,8c17.4,10,17.4,26.1,0,36.1S33.2,54,15.9,44
+				S-1.5,17.9,15.8,8C24,3.3,34.5,0.8,45.2,0.5c2.1-0.1,4.3,0,6.4,0.1C53.7,0.7,55.9,1,58,1.3C65.3,2.2,72.3,4.5,78.7,8z"/>
+		</g>
+	</g>
+</g>
+<g id="shield">
+	<path id="Kształt_1533_kopia" fill-rule="evenodd" clip-rule="evenodd" fill="#0066FF" d="M110.7,146.5c0,0-20-9.1-20-42.1
+		c16.3-13.9,20-25.1,25.1-28.1s8.4,1.5,24.7-3.9c3.5,1.3,6.9,2.7,10.2,4.4l-27.6,74.6L110.7,146.5z"/>
+	<path id="Kształt_1533" fill-rule="evenodd" clip-rule="evenodd" fill="#007BFC" d="M124.5,151.5c0,0-26.1,1.1-26.1-43.7
+		c16.3-13.9,21-24.1,26.1-27.1s9.9,1.5,26.1-3.9C150.7,120.2,124.5,151.5,124.5,151.5z"/>
+	<path id="Kształt_1559" fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M124.7,103.2c-3.1,2-5,5.3-5.2,9v1
+		c-1,0.7-1.7,1.8-1.7,3v10c-0.1,0.6,0.3,1.1,0.9,1.2c0.3,0.1,0.7,0,0.9-0.2l10.5-6c1-0.7,1.7-1.8,1.7-3v-10c0.1-0.6-0.3-1.1-0.9-1.2
+		c-0.3-0.1-0.7,0-0.9,0.2v-1C129.9,102.9,127.6,101.5,124.7,103.2z M124.7,105.2c2-1.1,3.5-0.3,3.5,2v1l-7,4v-1
+		C121.3,108.8,122.6,106.5,124.7,105.2z"/>
+</g>
+<g id="button">
+	<linearGradient id="Kształt_914_1_" gradientUnits="userSpaceOnUse" x1="121.3835" y1="22.9006" x2="145.8031" y2="22.9006">
+		<stop  offset="0" style="stop-color:#97BEFC"/>
+		<stop  offset="1" style="stop-color:#ABCAFF"/>
+	</linearGradient>
+	<path id="Kształt_914" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Kształt_914_1_)" d="M134.3,8.5
+		c6.9,4.5,11.1,12,11.5,20.2c0.2,3-1.1,5.9-3.5,7.7l0,0l-4,2.4l-16.9-28.3l4.5-2.6C128,6.6,131.1,6.7,134.3,8.5z"/>
+	<linearGradient id="Kształt_915_1_" gradientUnits="userSpaceOnUse" x1="117.6755" y1="24.8254" x2="141.4575" y2="24.8254">
+		<stop  offset="0" style="stop-color:#AFCDFD"/>
+		<stop  offset="1" style="stop-color:#D7E6FE"/>
+	</linearGradient>
+	<path id="Kształt_915" fill-rule="evenodd" clip-rule="evenodd" fill="url(#Kształt_915_1_)" d="M129.2,38.5
+		c-6.9-4.4-11.2-12-11.5-20.2c0.1-7.6,5.6-10.8,12.3-7.2c6.9,4.4,11.2,12,11.5,20.2C141.2,39,135.8,42.1,129.2,38.5z"/>
+	<path id="Kształt_1037" fill="none" stroke="#0066FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
+		M124.8,23.3l4.1,5.5l6.8-5.5"/>
+</g>
+</svg>

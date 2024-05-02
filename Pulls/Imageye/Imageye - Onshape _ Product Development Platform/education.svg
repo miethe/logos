@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 82 72" style="enable-background:new 0 0 82 72;" xml:space="preserve" width="82" height="71">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter);}
+	
+		.st1{mask:url(#path-1-inside-1_0_158_00000050655078474788950470000013069217766053677752_);fill:none;stroke:#3D4647;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:10,4;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#40AA1D;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	
+		.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_00000054983320214081489340000006472276349150280355_);}
+	
+		.st5{mask:url(#path-5-inside-2_0_158_00000083055990191858938810000015510473456912848573_);fill:none;stroke:#3D4647;stroke-width:4;stroke-dasharray:10,4;}
+</style>
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="3.39" y="1.31" width="62.97" height="72.09">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="3.39" y="1.31" width="62.97" height="72.09" id="path-1-inside-1_0_158_00000050655078474788950470000013069217766053677752_">
+	<path class="st0" d="M34.87,3.31L5.39,20.33v34.05L34.87,71.4l29.49-17.02V20.33L34.87,3.31z"/>
+</mask>
+<path class="st1" d="M34.87,3.31L5.39,20.33v34.05L34.87,71.4l29.49-17.02V20.33L34.87,3.31z"/>
+<path class="st2" d="M29.84,0.34L0.36,17.36v34.05l29.49,17.02l29.49-17.02V17.36L29.84,0.34z"/>
+<path class="st3" d="M13.84,39.5c0-0.64-0.39-1.19-0.94-1.44l0.04-7.34l16.9,8.02l22.47-10.68L29.84,17.4L7.37,28.08l4.28,2.03
+	l-0.05,7.97c-0.53,0.25-0.91,0.79-0.91,1.42c0,0.62,0.37,1.14,0.88,1.4l-0.77,2.24l2.8,0.01l-0.73-2.2
+	C13.45,40.72,13.84,40.16,13.84,39.5"/>
+<path class="st3" d="M29.85,39.83l-0.86-0.39l-12.95-6.17v7.27c0,3.45,6.17,6.23,13.81,6.23c7.61,0,13.79-2.77,13.79-6.23v-7.25
+	l-12.95,6.15L29.85,39.83z"/>
+<defs>
+	
+		<filter id="Adobe_OpacityMaskFilter_00000148663510968263696270000001112037756241176758_" filterUnits="userSpaceOnUse" x="41.97" y="-0.67" width="41.66" height="41.66">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="41.97" y="-0.67" width="41.66" height="41.66" id="path-5-inside-2_0_158_00000083055990191858938810000015510473456912848573_">
+	
+		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;filter:url(#Adobe_OpacityMaskFilter_00000148663510968263696270000001112037756241176758_);" d="
+		M62.8,38.99c10.4,0,18.83-8.43,18.83-18.83S73.2,1.33,62.8,1.33S43.97,9.76,43.97,20.16S52.4,38.99,62.8,38.99z"/>
+</mask>
+<path class="st5" d="M62.8,38.99c10.4,0,18.83-8.43,18.83-18.83S73.2,1.33,62.8,1.33S43.97,9.76,43.97,20.16S52.4,38.99,62.8,38.99z
+	"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg id="f51787cc-c12c-45b6-96d9-f3b2cd1ae76b" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="fc7ecbf9-cf75-41c1-81d0-b9770d42229f" x1="28" y1="22" x2="28" y2="11" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="0.9"/>
+    </linearGradient>
+    <mask id="eebf7249-4b3d-4532-a345-4d3e769c18ba" x="0" y="0" width="32" height="32" maskUnits="userSpaceOnUse">
+      <g>
+        <path d="M16,31a1,1,0,0,1-.5-.136l-12-7A1,1,0,0,1,3,23V9a1,1,0,0,1,.5-.864l12-7a1,1,0,0,1,1.008,0l12,7L27.5,9.864,16,3.158,5,9.574V22.426l11,6.417,11-6.417V12h2V23a1,1,0,0,1-.5.864l-12,7A1,1,0,0,1,16,31Z" fill="#fff"/>
+        <rect x="26" y="11" width="4" height="11" fill="url(#fc7ecbf9-cf75-41c1-81d0-b9770d42229f)"/>
+      </g>
+    </mask>
+    <linearGradient id="b554611b-0ad1-4a62-8195-b7ef74ae9526" x1="-5763" y1="-1919" x2="-5731" y2="-1951" gradientTransform="matrix(1, 0, 0, -1, 5763, -1919)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.1" stop-color="#08bdba"/>
+      <stop offset="0.9" stop-color="#0f62fe"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <g mask="url(#eebf7249-4b3d-4532-a345-4d3e769c18ba)">
+      <rect id="a072ef7e-84dd-4ed9-bb81-b816504420e6" data-name="Color" width="32" height="32" transform="translate(0 32) rotate(-90)" fill="url(#b554611b-0ad1-4a62-8195-b7ef74ae9526)"/>
+    </g>
+    <circle cx="23" cy="15" r="1" fill="#001d6c"/>
+    <circle cx="8" cy="15" r="1" fill="#001d6c"/>
+    <circle cx="21" cy="10" r="1" fill="#001d6c"/>
+    <circle cx="15" cy="23" r="1" fill="#001d6c"/>
+    <path d="M21,19a2.017,2.017,0,0,0-.512.074l-1.781-1.781-.026.026A2.961,2.961,0,0,0,19,16a3,3,0,0,0-3-3,2.961,2.961,0,0,0-1.319.319l.026-.026-1.781-1.781a2.033,2.033,0,1,0-1.414,1.414l1.781,1.781.026-.026A2.961,2.961,0,0,0,13,16a3,3,0,0,0,3,3,2.961,2.961,0,0,0,1.319-.319l-.026.026,1.781,1.781A2,2,0,1,0,21,19Zm-5-2a1,1,0,1,1,1-1A1,1,0,0,1,16,17Z" fill="#001d6c"/>
+  </g>
+</svg>
